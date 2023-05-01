@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body,table {
+  font-family: "Lato", sans-serif;
+  color:white;
+  background-color:#3E3C3B;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+.dashes {
+  border-top: 2px dashed #FFFFFF;
+  border-bottom: 0;
+  margin-top: 5px;
+}
+
+.dashesHREF {
+	text-decoration: none;
+	background-color: transparent;
+	border-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-top-width: 0px;
+	border-style: dashed;
+}
+    
+.sidenav {
+  height: 99%;
+  width: 240px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav a.active {
+  color: #f1f1f1;
+}
+
+.tabcontent {
+  margin-left: 240px; /* Same as the width of the sidenav */
+  font-size: 20px; 
+  padding: 0px 10px;
+  display: none;
+}
+
+.tabcontentdefault {
+  display: block;
+}
+
+table {
+  margin-left: 240px; /* Same as the width of the sidenav */
+  font-size: 14px; 
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+
+<script>
+var cX = 0;
+var cY = 0;
+var rX = 0;
+var rY = 0;
+if (document.all) {
+    document.onmousemove = UpdateCursorPositionDocAll;
+} else {
+    document.onmousemove = UpdateCursorPosition;
+}
+
+function UpdateCursorPosition(e) {
+    cX = e.pageX;
+    cY = e.pageY;
+}
+
+function UpdateCursorPositionDocAll(e) {
+    cX = event.clientX;
+    cY = event.clientY;
+}
+
+function AssignPosition(d) {
+    if (self.pageYOffset) {
+        rX = self.pageXOffset;
+        rY = self.pageYOffset;
+    } else if (document.documentElement && document.documentElement.scrollTop) {
+        rX = document.documentElement.scrollLeft;
+        rY = document.documentElement.scrollTop;
+    } else if (document.body) {
+        rX = document.body.scrollLeft;
+        rY = document.body.scrollTop;
+    }
+    if (document.all) {
+        cX += rX;
+        cY += rY;
+    }
+    d.style.left = (cX + 10) + "px";
+    d.style.top = (cY + 10) + "px";
+}
+
+function HideBaloon(d) {
+    if (d.length < 1) {
+        return;
+    }
+    document.getElementById(d).style.display = "none";
+}
+
+function ShowBaloon(d) {
+    if (d.length < 1) {
+        return;
+    }
+    var dd = document.getElementById(d);
+    AssignPosition(dd);
+    dd.style.display = "block";
+}
+
+function ReverseBaloonDisplay(d) {
+    if (d.length < 1) {
+        return;
+    }
+    var dd = document.getElementById(d);
+    AssignPosition(dd);
+    if (dd.style.display == "none") {
+        dd.style.display = "block";
+    } else {
+        dd.style.display = "none";
+    }
+}
+function openTab(evt, tabName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+} 
+</script>
+
+</head>
+<body>
+<table border="0" width="80%">
+  <tr>
+    <td><b><a href="https://www.google.com">Google</a></b></td>
+    <td><b><a href="https://www.reddit.com/">Reddit</a></b></td>
+    <td><b><a href="https://www.twitch.com/">Twitch</a></b></td>
+    <td><b><a href="https://discordapp.com/channels/@me">Discord</a></b></td>
+    <td><b><a href="https://www.thegamesmachine.it/forum/">TGMOnline</a></b></td>
+    <td><b><a href="https://backloggery.com/Antaniserse">Backloggery</a></b></td>
+    <td><b><a href="https://www.gamefaqs.com">GameFAQs</a></b></td>
+    <td><b><a href="https://onedrive.live.com/edit.aspx?resid=85A724F9CA7A6334!784&cid=85a724f9ca7a6334&app=OneNote">OneNote</a></b></td>
+  </tr>
+  <tr><td colspan="8"><hr class="dashes"></hr></td></tr>
+  <tr><td colspan="8"></td></tr>
+</table>
+
+<nav class="sidenav">
+  <a class="tablinks active" href="#" onclick="openTab(event, 'Aarklash')">Aarklash Legacy</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DarkSouls')">Dark Souls</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DarkSouls2')">Dark Souls 2</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DarkSouls3')">Dark Souls 3</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DemonsSouls')">Demon's Souls</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DeusExHR')">Deus Ex - Human Revolution</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'DragonAge')">Dragon Age Origins</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Elite')">Elite Dangerous</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Eschalon2')">Eschalon Book 2</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'EvochronM')">Evochron Mercenary</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Fallout3')">Fallout3</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'GTA4')">GTA 4</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'MMX')">Might & Magic X</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'HOMM3')">Heroes of M&M 3</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'HOMM6')">Heroes of M&M 6</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Exile')">Path of Exile</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'PinballFX')">Pinball FX</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Risen')">Risen</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Skyrim')">Skyrim</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'SRW')">Super Robot Wars</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Terraria')">Terraria</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Remnant')">The Last Remnant</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Witcher')">The Witcher</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'Torchlight2')">Torchlight 2</a>
+  <a class="tablinks" href="#" onclick="openTab(event, 'X2')">X2: The Threat</a>
+</nav>
+
+<main>
+<!-- Tab content -->
+<article id="Aarklash" class="tabcontent tabcontentdefault">
+	<h3>Aarklash Legacy</h3>
+	<ul type="square">
+		<li><a href="http://forums.aarklash-legacy.com/viewtopic.php?f=7&t=2903#p4928">Builds</a></li>
+		<li><a href="http://aveyntoh-blog.blogspot.it/2013/10/aarklash-legacy-review-and-walkthrough.html">Walkthrough (bosses)</a></li>
+	</ul>
+</article>
+
+<article id="DarkSouls" class="tabcontent">
+	<h3>Dark Souls</h3>
+	<ul type="square">
+		<li><a href="http://darksouls.wikidot.com/">Wikidot</a> & <a href="https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki">Fextralife</a></li>
+		<li><a href="https://soulsplanner.com/mybuilds/darksouls">Planner</a></li>
+		<li><a href="https://smcnabb.github.io/dark-souls-cheat-sheet//">Progress Checklist</a></li>
+	</ul>
+</article>
+
+<article id="DarkSouls2" class="tabcontent">
+	<h3>Dark Souls 2</h3>
+	<ul type="square">
+		<li><a href="http://darksouls2.wikidot.com/">Wikidot</a> & <a href="https://darksouls2.wiki.fextralife.com/Dark+Souls+2+Wiki">Fextralife</a></li>
+		<li><a href="https://soulsplanner.com/mybuilds/darksouls2">Planner</a></li>
+		<li><a href="https://xenevel.github.io/dark-souls-2-sotfs-cheat-sheet/">Progress Checklist SOTFS</a></li>
+		<li><a href="https://smcnabb.github.io/dark-souls-2-cheat-sheet/">Progress Checklist Vanilla</a></li>
+	</ul>
+</article>
+
+<article id="DarkSouls3" class="tabcontent">
+	<h3>Dark Souls 3</h3>
+	<ul type="square">
+		<li><a href="http://darksouls3.wikidot.com">Wikidot</a> & <a href="https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki">Fextralife</a></li>
+		<li><a href="https://soulsplanner.com/mybuilds/darksouls3">Planner</a></li>
+		<li><a href="https://zkjellberg.github.io/dark-souls-3-cheat-sheet/">Progress Checklist</a></li>
+	</ul>
+</article>
+
+<article id="DemonsSouls" class="tabcontent">
+	<h3>Demon's Souls</h3>
+	<ul type="square">
+		<li><a href="http://demonssouls.wikidot.com/">Wiki</a></li>
+		<li><a href="https://mugenmonkey.com/demonssouls">Planner</a></li>
+	</ul>
+<a href="https://demonssouls.wiki.fextralife.com/Game+Progress+Route">Suggested order:</a><br><br>
+    Gates of Boletaria (1 - 1)<br>
+    The Lord's Path (1 - 2)<br>
+    Smithing Grounds (2 - 1)<br>
+    Prison of Hope (3 - 1)<br><br>
+    Island's Edge (4 - 1)<br>
+    Depraved Chasm (5 - 1)<br><br>
+    The Tunnel City (2 - 2)<br>
+    Underground Temple (2 - 3)<br>
+    Upper Latria (3 - 2)<br>
+    The Ritual Path (4 - 2)<br>
+    Inner Ward (1 - 3)<br><br>
+    Swamp of Sorrow (5 - 2)<br>
+    The Ivory Tower (3 - 3)<br>
+    Altar of Storms (4 - 3)<br>
+    Rotting Haven (5 - 3)<br>
+    The King's Tower (1 - 4)
+</article>
+
+<article id="DeusExHR" class="tabcontent">
+	<h3>Deus Ex - Human Revolution</h3>
+	<ul type="square">
+		<li><a href="https://www.gamefaqs.com/pc/944090-deus-ex-human-revolution/faqs/63079">Augmentation Guide</a></li>
+		<li><a href="http://www.gamespot.com/articles/deus-ex-human-revolution-walkthrough/1100-6330617/">Walkthrough (Gamespot)</a></li>
+	</ul>
+</article>
+
+<article id="DragonAge" class="tabcontent">
+	<h3>Dragon Age Origins</h3>
+	<ul type="square">
+		<li><a href="https://www.gamefaqs.com/pc/920668-dragon-age-origins/faqs">GameFAQs Main Page</a></li>
+		<li><a href="https://www.gamefaqs.com/pc/920668-dragon-age-origins/faqs/58876">Class and Character Building Guide</a></li>
+	</ul>
+</article>
+
+<article id="Elite" class="tabcontent">
+	<h3>Elite Dangerous</h3>
+	<ul type="square">
+		<li><a href="http://forums.frontier.co.uk/index.php">Frontier Forums</a></li>
+		<li><a href="http://www.elitetradingtool.co.uk/">Trade calculator</a></li>
+		<li><a href="http://eliteraretrader.co.uk/">Rare Trade Maps</a></li>
+		<li><a href="https://onedrive.live.com/redir?resid=85A724F9CA7A6334%21784&page=Edit&wd=target%28Test.one%7C%2FMiscellaneous%7C47932753-1e2e-4bb2-b052-6752e48c9417%2F%29&wdorigin=703">Notes</a></li>
+		<li><a href="https://coriolis.io/">Ship Planner</a></li>			
+	</ul>
+</article>
+
+<article id="Eschalon2" class="tabcontent">
+	<h3>Eschalon Book 2</h3>
+	<ul type="square">
+		<li><a href="http://basiliskgames.com/forums/viewtopic.php?f=12&t=3299">Strategy Central</a></li>
+		<li><a href="file:///F:/Shared/Games Extra/Soluzioni%20&%20Guide/Eschalon/Book%202%20Walkthrough.txt">Walkthrough (locale)</a></li>
+	</ul>
+</article>
+
+<article id="DragonAge" class="tabcontent">
+	<h3>Dragon Age Origins</h3>
+	<ul type="square">
+		<li><a href="https://www.gamefaqs.com/pc/920668-dragon-age-origins/faqs">GameFAQs Main Page</a></li>
+		<li><a href="https://www.gamefaqs.com/pc/920668-dragon-age-origins/faqs/58876">Class and Character Building Guide</a></li>
+	</ul>
+</article>
+
+<article id="EvochronM" class="tabcontent">
+	<h3>Evochron Mercenary</h3>
+	<ul type="square">
+		<li><a href="http://www.starwraith.com/forum/viewtopic.php?f=16&t=11017">New Player Resources</a></li>
+		<li><a href="http://www.starwraith.com/forum/viewtopic.php?f=16&t=10062">Navigation and Console</a></li>
+		<li><a href="http://www.evochron2.junholt.se/">SeeJay Site</a></li>
+		<li><a href="http://mercenary.junholt.se/">EvoMetrics Map</a></li>
+	</ul>
+</article>
+
+<article id="Fallout3" class="tabcontent">
+	<h3>Fallout 3</h3>
+	<ul type="square">
+		<li><a href="http://fallout.alteredgamer.com/fallout-3/20869-perk-guide-levels-10-14/">Perk Guide</a></li>
+		<li><a href="http://fallout.wikia.com/wiki/Fallout_3_quests">Wiki (Quests)</a></li>
+	</ul>
+</article>
+
+<article id="GTA4" class="tabcontent">
+	<h3>GTA 4</h3>
+	<ul type="square">
+		<li><a href="http://www.gta4.net/map/">Mappa e Walkthrough</a></li>
+	</ul>
+</article>
+
+<article id="HOMM3" class="tabcontent">
+	<h3>Heroes of Might & Magic 3</h3>
+	<ul type="square">
+		<li><a href="http://www.heroesofmightandmagic.com/heroes3/heroesofmightandmagic3iii.shtml">Age of Heroes FAQ & Walkthrough</a></li>
+		<li><a href="https://www.celestialheavens.com/walkthroughs-home#heroes3">Celestial Haven Walkthrough</a></li>
+	</ul>  
+</article>
+
+<article id="HOMM6" class="tabcontent">
+	<h3>Might & Magic Heroes 6</h3>
+	<ul type="square">
+		<li><a href="https://www.celestialheavens.com/walkthroughs-home#heroes6">Celestial Haven Walkthrough</a></li>
+		<li><a href="http://forums.ubi.com/forumdisplay.php/212-Might-amp-Magic-Heroes-VI?amp;-Magic-Heroes-VI=/">Official Forum</a></li>
+		<li><a href="file:///F:/Shared/Games Extra/Soluzioni & Guide/HoMM6/mmh6_manual_eng_0.93.pdf">Manuale (locale)</a></li>
+		<li>
+		  <a class="dashesHREF" onmouseover="ShowBaloon('Heroes6Baloon1'); return true;" onmouseout="HideBaloon('Heroes6Baloon1'); return true;"
+			href="javascript:ShowBaloon('Heroes6Baloon1')">Campaign order</a>
+		</li>	  
+	</ul>  
+</article>
+
+<article id="MMX" class="tabcontent">
+	<h3>Might & Magic X</h3>
+	<ul type="square">
+		<li><a href="https://www.gamefaqs.com/pc/708378-might-and-magic-x-legacy/faqs/68658/">Party Creation Guide</a></li>
+		<li><a href="https://www.gamefaqs.com/pc/708378-might-and-magic-x-legacy/faqs/69204/">Walkthrough</a></li>
+	</ul>
+</article>
+
+<article id="Exile" class="tabcontent">
+	<h3>Path of Exile</h3>
+	<ul type="square">
+		<li><a href="http://pathofexile.gamepedia.com">Wiki</a></li>
+		<li><a href="https://www.pathofexile.com/forum/view-thread/1321402">Marauder Tank Build</a></li>
+		<li><a href="https://www.pathofexile.com/forum/view-thread/105920">Lazy Pally Templar Build</a></li>
+	</ul>
+</article>
+
+<article id="PinballFX" class="tabcontent">
+	<h3>Pinball FX</h3>
+	<ul type="square">
+		<li><a href="https://www.pinballfx.com/?page_id=7527">Table guides</a></li>
+	</ul>	
+</article>
+
+<article id="Risen" class="tabcontent">
+	<h3>Risen</h3>
+	<ul type="square">
+		<li><a href="https://www.gamefaqs.com/pc/952152-risen/faqs/64062">Walkthrough</a></li>
+		<li><a href="https://www.gamefaqs.com/boards/952152-risen/51916190">Console commands</a></li>
+	</ul>
+</article>
+<article id="SRW" class="tabcontent">
+	<h3>Super Robot Wars</h3>
+	<ul type="square">
+		<li><a href="https://akurasu.net/wiki/Super_Robot_Wars/30/Complete#Main_Story">SRW 30 Flowchart (Akurasu)</a></li>
+		<li><a href="https://jsbin.com/xirizuw" target="_new">Mission Randomizer</a></li>		
+	</ul>
+</article>
+
+<article id="Skyrim" class="tabcontent">
+	<h3>Skyrim</h3>
+	<ul type="square">
+		<li><a href="http://skyrimcalculator.com/#166118">Perk Calculator (assassin)</a></li>
+		<li><a href="http://www.uesp.net/wiki/Skyrim:Skyrim">UESP Wiki</a></li>
+	</ul>
+</article>
+
+<article id="Terraria" class="tabcontent">
+	<h3>Terraria</h3>
+	<ul type="square">
+		<li><a href="https://terraria.fandom.com/wiki/Terraria_Wiki">Terraria Wiki</a></li>
+	</ul>
+</article>
+
+<article id="Remnant" class="tabcontent">
+	<h3>The Last Remnant</h3>
+	<ul type="square">
+		<li><a href="http://lastremnant.wikia.com/wiki/The_Last_Remnant_Wiki_-_The_Last_Remnant_Guide">Wiki</a></li>
+	</ul>
+</article>
+
+<article id="Witcher" class="tabcontent">
+	<h3>The Witcher</h3>
+	<ul type="square">
+		<li><a href="file:///F:/Shared/Games Extra/Soluzioni & Guide/The Witcher/the_witcher_talent.txt">Talent Guide (locale)</a></li>
+		<li><a href="file:///F:/Shared/Games Extra/Soluzioni & Guide/The Witcher/the_witcher_quest.txt">Walkthrough (locale)</a></li>
+	</ul>
+</article>
+
+<article id="Torchlight2" class="tabcontent">
+	<h3>Torchlight 2</h3>
+	<ul type="square">
+		<li><a href="https://expertgamereviews.com/torchlight-2-best-builds-complete-guide/">Class Builds</a></li>
+	</ul>
+</article>
+
+<article id="X2" class="tabcontent">
+	<h3>X2: The Threat</h3>
+	<ul type="square">
+		<li><a href="https://roguey.co.uk/x2/universe/">Mappa (Roguey)</a></li>
+		<li><a href="file:///F:/Shared/Games Extra/Soluzioni & Guide/X2 The Threat/X2 -The Threat map White 2.png">Mappa (locale)</a></li>
+		<li><a href="file:///D:/Drivers/Saitek X52/X52 - [X2 The Threat].pdf">X52 mapping (locale)</a></li>
+	</ul>
+</article>
+</main>
+
+<!-- Baloons -->
+<div 
+   id="Heroes6Baloon1" 
+   style="display:none; 
+      position:absolute; 
+      border-style: solid; 
+	  border-width:thin;
+      padding: 5px;">
+		Heart of Nightmares (Collectors' edition map)<br>
+		Prologue 1<br>
+		Prologue 2<br>
+		Stronghold 1<br>
+		Sanctuary 1<br>
+		Haven 1<br>
+		Inferno 1<br>
+		Necropolis 1<br>
+		Stronghold 2<br>
+		Sanctuary 2<br>
+		Haven 2<br>
+		Necropolis 2<br>
+		Sanctuary 3<br>
+		Stronghold 3<br>
+		Necropolis 3<br>
+		Inferno 2<br>
+		Inferno 3<br>
+		Sanctuary 4<br>
+		Stronghold 4<br>
+		Haven 3<br>
+		Necropolis 4<br>
+		Haven 4<br>
+		Inferno 4<br>
+		Epilogues<br>
+</div>
+</body>
+</html> 
