@@ -1,0 +1,98 @@
+[Event "ch-EUR Indiv w "]
+[Site "Petrovac MNE"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Daulyte-Cornette, Deimante"]
+[Black "Mammadzada, Gunay"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2344"]
+[BlackElo "2472"]
+[Annotator "Mikhalchishin"]
+[PlyCount "37"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c3 ({Qui non √.. facile
+ottenere la struttura Maroczy:} 5. c4 Ngf6 6. Nc3 Ne5 $1) 5... Ngf6 6. Qe2 e6
+7. d4 Be7 8. e5 Nd5 ({La teoria preferisce} 8... dxe5 9. dxe5 Nd5 10. c4 Nb4 {
+, ecc.}) 9. c4 N5b6 $2 ({Meglio, ma non per il pareggio, √..} 9... Nb4 10. exd6
+Bxd6 11. Be3 {Ó ^=.}) 10. exd6 $1 ({Era sbagliata} 10. Bf4 d5 (10... g5 $6 11.
+Bg3 g4 12. Nfd2 cxd4 13. exd6 Bf6 14. Qxg4 $2 (14. Na3 a6 15. Ne4 $16) 14... h5
+15. Qf3 h4 {Ó s, Dubov-Oparin, Chess.come INT 2022}) 11. Nbd2 cxd4 12. O-O Rc8
+{Ó s.}) 10... Bxd6 {[#]} 11. b4 $3 {Un tipico colpo tattico di pedone!} cxd4
+12. c5 d3 ({Il Nero non riesce a mantenere tre pedoni per il pezzo:} 12... Rc8
+13. Nbd2 Nxc5 14. bxc5 Bxc5 15. O-O Qd5 16. Nb3 d3 17. Qe5 f6 18. Qxd5 Nxd5 19.
+Nxc5 Rxc5 20. Rd1 e5 21. Rxd3 e4 22. Ba3 Ra5 23. Re1 $18 {.}) 13. Qxd3 Qf6 14.
+Qc3 {Questa √.. pi√>= forte di} (14. Nc3 Ne5 15. Qb5+ Nbd7 $16 {.}) 14... Be7 (
+{L'inchiodatura non fa alcun danno al Bianco:} 14... Qg6 15. cxb6 Be7 16. O-O
+Bf6 17. Nd4 Nxb6 18. Be3 O-O 19. Na3 Nd5 20. Qb3 $18 {.}) 15. cxb6 Bxb4 16.
+Qxb4 Qxa1 17. bxa7 {La soluzione pi√>= semplice.} Rxa7 18. O-O Qf6 ({Perdeva
+immediatamente} 18... Qxa2 19. Ba3 $18 {.}) 19. Bg5 1-0
+
+[Event "ch-EUR Indiv w"]
+[Site "Petrovac MNE"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Garcia Martin, Marta"]
+[Black "Arabidze, Meri"]
+[Result "0-1"]
+[WhiteElo "2306"]
+[BlackElo "2433"]
+[Annotator "Mikhalchishin"]
+[SetUp "1"]
+[FEN "3q1rk1/1p4p1/7p/p1RpNb2/1r1P4/8/3Q1PPP/2R3K1 w - - 0 29"]
+[PlyCount "6"]
+[EventDate "2023.??.??"]
+
+{[#]} 29. Qa2 $2 {Il punto critico. Dopo aver rovinato una posizione migliore,
+il Bianco calcola male e commette un brutto errore. Si poteva mantenere la
+parit√  con qualcosa come} (29. f3) ({o} 29. h3 {.}) 29... Rxd4 30. Rxa5 {[#]}
+({Non era meglio} 30. Nf3 Rf4 31. Rxd5 Be6 32. Rxd8 Bxa2 33. Rxf8+ Kxf8 34. Ra1
+Rb4 $19 {.}) 30... Qc7 $1 {Questo doppio attacco dev'essere sfuggito al Bianco.
+} 31. Re1 Qxe5 0-1
+
+[Event "ch-EUR Indiv w "]
+[Site "Petrovac MNE"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Kiolbasa, Oliwia"]
+[Black "Brunello, Marina"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2346"]
+[Annotator "Mikhalchishin"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p3pbR/p2p2p1/3P2P1/n1q2BnQ/1NP5/PP4B1/1K5R b - - 0 26"]
+[PlyCount "10"]
+[EventDate "2023.??.??"]
+
+{[#] In una posizione completamente senza speranza, il Nero tenta l'ultimo
+trucco...} 26... Re1+ {Era inutile} (26... Nxc3+ 27. Ka1 $18 {.}) 27. Rxe1 $2 (
+{Il Bianco avrebbe ottenuto una vittoria semplice dopo la cattura corretta:} 
+27. Qxe1 Nxc3+ 28. Ka1 Qa4 29. Rxg7+ Kxg7 30. bxc3 Qxf4 31. Qh4 $18 {.}) 27...
+Nxc3+ $2 ({Marina ha perso una grande occasione di dare scacco perpetuo:} 27...
+Qd3+ 28. Ka1 Bxc3 29. Bc1 Qc2 30. bxc3 Qxc3+ 31. Kb1 Qc2+ $11 {.}) 28. Ka1 $1
+Qa4 29. Rxg7+ Kxg7 30. bxc3 Rxc3 (30... Qxf4 31. Re4 $18) 31. Rh1 1-0
+
+[Event "ch-EUR Indiv w "]
+[Site "Petrovac MNE"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Danielian, Elina"]
+[Black "Maltsevskaya, Aleksandra"]
+[Result "0-1"]
+[WhiteElo "2431"]
+[BlackElo "2388"]
+[Annotator "Mikhalchishin"]
+[SetUp "1"]
+[FEN "3qr1k1/5p1p/6p1/p2pb3/2rNn3/P3PQ2/5PPP/R2RB1K1 w - - 0 25"]
+[PlyCount "22"]
+[EventDate "2023.??.??"]
+
+{[#]} 25. g3 $2 ({Il Bianco avrebbe potuto ancora combattere dopo} 25. Rd3 Qb8
+26. h4 Bxd4 27. Rxd4 Rxd4 28. exd4 Qb2 29. Rd1 Re6 {Ó ^-.}) 25... Ng5 26. Qg2
+Bxd4 $1 27. exd4 Qf6 28. Bxa5 ({Non molto meglio} 28. f4 Ne4 29. Bxa5 Rec8 30.
+Ra2 h5 $19 {.}) 28... Rc2 29. Rf1 Ree2 30. Rac1 (30. Be1 Qxd4 $19) 30... Rxc1
+31. Rxc1 Nh3+ $1 {Danielian si √.. arresa, visto che dopo} 32. Qxh3 {segue un
+attacco da matto:} Qxf2+ 33. Kh1 Qf3+ 34. Kg1 Qe3+ 35. Kh1 Qxc1+ {ecc.} 0-1
+

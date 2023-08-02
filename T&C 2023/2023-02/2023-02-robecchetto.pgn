@@ -1,0 +1,80 @@
+[Event "34.Festival - Magistrale"]
+[Site "Robecchetto con Induno ITA"]
+[Date "2022.12.28"]
+[Round "4.3"]
+[White "Lazic, Miroljub"]
+[Black "Shatil, Shir"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2320"]
+[BlackElo "2051"]
+[Annotator "Shatil, Shir"]
+[PlyCount "58"]
+[EventDate "2022.12.26"]
+[EventRounds "6"]
+[EventCountry "ITA"]
+
+1. g3 {Sapevo che al mio avversario piaceva giocare questo fianchetto e
+speravo di rientrare in una difesa Est-Indiana a colori invertiti.} d5 2. Nf3
+c5 3. Bg2 Nc6 4. O-O {Leggermente inaccurata. Questa permette di proseguire
+con 4...e7-e5 e offre gia' al Nero un po' di margine.} ({Giocare una Grunfeld
+in contromossa con} 4. d4 {considerato preferibile.}) 4... e5 5. c4 Nf6 {
+Questa permette 6. Da4 con parita' , ma al mio avversario piace 6.d3 in questa
+posizione e confidavo nel fatto che l'avrebbe giocata anche in questa partita.}
+6. d3 Be7 7. Nc3 $6 {Un'altra scelta dubbia. Il mio avversario sembrava molto
+ansioso di ottenere una posizione tipo Est-Indiana, anche al prezzo di far
+rimanere il suo Cavallo bloccato ai margini. Questo Cavallo tornera' a
+perseguitare il Bianco man mano che la partita procede.} ({Era meglio
+rientrare in una struttura Maroczy con} 7. cxd5 {, ma il Bianco chiaramente
+aveva qualcos'altro in mente.}) 7... d4 8. Na4 h6 {Evitando Ac1-g5.} 9. e3 O-O
+10. exd4 {[#] Il primo momento critico della partita.} exd4 $1 {Il modo
+corretto di catturare, mantenendo fuori gioco il Cavallo a4.} ({Catturare con
+il pedone 'c' avrebbe giustificato il piazzamente del Cavallo in a4 da parte
+del Bianco. Il Bianco avrebbe potuto proseguire in stile Benoni, iniziando a
+far avanzare i suoi pedoni di Donna:} 10... cxd4 $2 11. a3 {Appena possibile,
+il Bianco avrebbe potuto giocare b2-b4 e poi anche espandersi con c4-c5.
+All'improvviso il Cavallo in a4 sarebbe diventato un pezzo attivo e il
+vantaggio del Nero si sarebbe assottigliato.}) 11. Re1 ({Forse era piu'
+accurata} 11. Bf4 {, prendendo il controllo della cruciale diagonale h2-b8 che,
+come vedremo, in alcune occasioni sara' di grande aiuto al Nero.}) 11... Be6 $6
+{Un piccolo contro-favore.} ({Avrei dovuto cogliere l'occasione di occupare la
+diagonale con} 11... Bd6 $1 {Tuttavia, a preoccuparmi era} 12. b3 {, con una
+pressione sgradevole contro il mio pedone c5 e Ac1-a3 a seguire. Ma c'era un
+modo intelligente di fare fronte a questa idea, che non avevo visto:} Bf5 13.
+Ba3 b6 $1 {difendendo semplicemente il pedone. Potrebbe sembrare che ci siano
+dei tatticismi lungo la diagonale h1-a8, ma a uno sguardo piu' attento si nota
+che nessuno di questi funziona.}) 12. Bd2 {12. Af4 era di nuovo preferibile.}
+a5 $6 {Un errore che manda in fumo parte del vantaggio. Ero preoccupato da
+a2-a3 e b2-b4, ma non c'era bisogno di reagire cosi' in fretta.} ({Bisognava
+prima occupare la diagonale con} 12... Bd6 {e solo dopo} 13. a3 {impedire
+b2-b4 con} a5 $1 {.}) 13. Ne5 $1 {Cambiando il mio forte Cavallo e aprendo la
+diagonale per l'Alfiere campochiaro.} Nxe5 14. Rxe5 Bd6 15. Re1 $6 ({Il Bianco
+avrebbe potuto considerare di sacrificare la qualit√ in stile Petrosian con} 
+15. Rxe6 $5 {, ma non ero comunque troppo preoccupato da questa opzione.})
+15... Qc7 {Difendendo il pedone b7. L'immobilita' del Cavallo bianco in a4
+diventera' sempre piu' evidente nel prosieguo della partita e man mano che
+altri pezzi verranno cambiati.} 16. h3 {Una mossa pensata per impedire ...
+Ae6-g4, ma che il Bianco finira' per rimpangere.} Bd7 17. b3 Rfe8 {Combattendo
+per il controllo della colonna 'e'.} 18. Qf3 $1 {Una buona mossa da parte del
+mio avversario. L'avevo vista in anticipo e dato che era la prima partita di
+due della stessa giornata, non mi sono fatto problemi a proporre
+implicitamente una patta per ripetizione con ...Ad7-c6 e Df3-f5 contro un
+giocatore piu' quotato, nonostante sapessi di avere probabilmente migliori
+possibilita' .} Bc6 19. Qf5 Bd7 20. Qf3 Bc6 21. Rxe8+ $2 {Sono stato sorpreso
+di vedere questa mossa comparire sulla scacchiera. Il mio avversario non
+desiderava ripetere e ha ceduto l'importante colonna 'e'. Adesso la sua Donna
+sar√ costretta a tornare in d1.} Rxe8 22. Qd1 {[#]} (22. Qf5 {non e' piu'
+possibile per via di} Re5 $1 $19 {e la Donna e' perduta.}) 22... Bxg3 $1 {
+Questo sacrificio aveva attirato la mia attenzione ancora prima che il mio
+avversario giocasse h2-h3.} 23. fxg3 $2 {Questa non lascia assolutamente
+alcuna possibilit√ di sopravvivenza.} ({Era meglio} 23. Bxc6 bxc6 24. Qf3 Bd6 {
+, in cui il Nero ha un pedone in piu' ed e' vicino a un vantaggio vincente, ma
+ci sono ancora delle minime possibilit√ di pareggio per il Bianco.}) 23... Qxg3
+24. Qf1 Bxg2 25. Qxg2 Qxg2+ 26. Kxg2 Re2+ {Credo che il mio avversario non
+abbia proprio visto questo scacco in e2, altrimenti non avrebbe mai catturato
+in g3. E' probabile che pensasse che avessi intenzione di giocare 25. ..Dxd3
+invece di 25...Dxg2+.} 27. Kg1 Rxd2 {Il Nero ha due pedoni in piu'.} 28. Nxc5
+b6 $1 29. Na4 Nd7 $1 $19 {Il Nero cattura anche il pedone d3 e 30. Te1 trova
+risposta nella mossa profilattica 30...Rf8, impedendo l'ingresso della Torre
+sulla settima traversa. Il Bianco percio' si e' arreso.} 0-1
+

@@ -1,0 +1,28 @@
+[Event "Bolzano open"]
+[Site "?"]
+[Date "2023.??.??"]
+[Round "?"]
+[White "Casadio, Niccolo"]
+[Black "Bodrov, Timofey"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2152"]
+[BlackElo "2012"]
+[Annotator "Microsoft"]
+[PlyCount "53"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. O-O d5 7. exd5 Nxd5 8. h3
+a6 9. Re1 Nb6 10. Bb3 Bf6 11. Qe2 Bf5 12. Bc2 Qd7 13. Nbd2 Rad8 14. Ne4 Be7 15.
+Be3 Rfe8 16. Bxb6 cxb6 17. Rad1 Bg6 {Diagramma #} 18. d4 {Finalmente mi libero
+della debolezza d3 che ho concesso con un'apertura non 'perfetta' (commento di
+Niccolo' Casadio)} exd4 19. Nxd4 Bf8 20. Qf3 Nxd4 (20... Qc8) 21. Rxd4 Qe7 (
+21... Qc6) 22. Red1 (22. Re3) 22... Rxd4 23. Rxd4 Qe6 (23... Qe5) 24. Bb3 Bxe4
+{Questo e' l'errore decisivo: sembra che il Nero stia guadagnando un pezzo, ma
+in realta' e' caduto in una trappola: se guadagna il pezzo, subisce matto in
+due mosse. Decide allora di difendersi dal matto con 25...Dd7, ma ormai e'
+troppo tardi par salvare la partita, infatti con le seguenti mosse sfrutto
+l'inchiodatura per guadagnare qualita' (Casadio).} (24... Qe7 {era la mossa
+necessaria} 25. Bd5) 25. Rxe4 Qd7 {Diagramma #} 26. Qxf7+ Qxf7 27. Rxe8 {il
+Nero abbandona perche' dovrebbe giocare un finale tecnicamente perso.} 1-0
+

@@ -1,0 +1,269 @@
+[Event "Playoffs"]
+[Site "https://www.chess.com"]
+[Date "2023.05.01"]
+[Round "10"]
+[White "Ladron De Guevara Pinto, Paolo"]
+[Black "Valsecchi, Alessio"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2318"]
+[BlackElo "2453"]
+[Annotator "Piscopo,P."]
+[PlyCount "84"]
+[EventDate "2023.??.??"]
+[SourceDate "2020.06.09"]
+[TimeControl "5400+30"]
+[WhiteClock "0:01:48"]
+[BlackClock "0:01:48"]
+
+{La partita che state per vedere √.. quella che ha praticamente deciso la
+finale di questo CIS Master 2023!} 1. e4 {[%emt 0:00:00]} e5 {[%emt 0:02:37]}
+2. Nf3 {[%emt 0:00:20]} Nc6 {[%emt 0:00:06]} 3. Bb5 {[%emt 0:02:45]} a6 {[%emt
+0:00:24]} 4. Ba4 {[%emt 0:00:16]} Nf6 {[%emt 0:00:07]} 5. d3 $5 {[%emt 0:00:05]
+Un concetto interessante. Il Bianco in pratica gioca come se fossimo nel
+classico "Giuoco Piano" cercando di dimostrare che l'inclusione delle mosse ...
+a6 e ...b5 finisca per svantaggiare il Nero.} b5 {[%emt 0:01:53] Si noti che
+la quinta mossa del Bianco aveva reso reale la minaccia di catturare il pedone
+e5 con Axc6 e poi Cxe5. La risposta del testo appare pertanto la piu' naturale,
+pur non mancando le alternative} (5... Bc5 $5 {che difende indirettamente il
+pedone e5 poich√.. se ora} 6. Bxc6 dxc6 7. Nxe5 $4 Qd4) (5... d6) 6. Bb3 {
+[%emt 0:00:04]} Bc5 {[%emt 0:00:15]} 7. Nc3 $5 {[%emt 0:00:09] E' esattamente
+questa mossa che vuole dimostrare come, in uno studio comparato della
+posizione del Giuoco Piano classico e questa con "in piu' le mosse ... a6, e ..
+.b5, risulta che il Bianco possa sfruttare l'indebolimento della diagonale h1/
+a8 su cui sono allineati il Cc6 e la Ta8. Vedremo poco avanti il perche'} Bb7 {
+[%emt 0:01:46]} (7... d6 8. Nd5 $1 {e' la chiave! Ora il cambio in d5 e' molto
+scomodo, pertanto il Nero deve gia' correre ai ripari vista la minaccia Ag5}
+Nxd5 (8... h6) (8... Na5 9. Bg5 {Ci sembra una versione peggiorata di quanto
+vedremo in partita, poiche' il Bianco, per doppiare il pedoni f del Nero, non
+e' neppure costretto a cedere l'Alfiere camposcuro.}) 9. Bxd5 {qui si vede
+l'importanza, per il Bianco, di aver "costretto" il Nero a indebolire l'ala di
+Donna. Il tempo guadagnato attaccando il Cc6 si rivela fondamentale.} Bb7 10.
+Ng5 {con guai molto grossi} O-O 11. Qh5 {Ë addiritttura gia' finita!}) (7... h6
+{Sarebbe la mossa solida, impedendo Ag5 e riconoscendo che lo scaltro ordine
+di mosse ha fruttato al Bianco in pratica un tempo di sviluppo in piu' (anche
+se la mossa ...h6 ha comunque la sua utilita' )}) 8. Nd5 {[%emt 0:02:48]} Na5
+$5 {[%emt 0:24:09] Il nostro GM gioca con grande energia, consentendo
+coraggiosamente al Bianco di eseguire la sua minaccia.} 9. Bg5 {[%emt 0:07:21]}
+Nxb3 {[%emt 0:00:47]} 10. Bxf6 {[%emt 0:04:10] un'intermedia necessaria,se si
+vuole danneggiare la struttura nera ad est.} (10. axb3 Bxd5) 10... gxf6 {[%emt
+0:00:08]} 11. axb3 {[%emt 0:00:03]} Rg8 {[%emt 0:01:25] La posizione √..
+davvero molto sbilanciata: 2 Cavalli contro 2 Alfieri, struttura nera
+danneggiata. Il piano del Bianco sar√ quello di portare un cavallo in f5 per
+"congelare" la doppiatura avversaria, mentre il Nero vuole aprire ad ogni
+costo le diagonali a beneficio dei suoi alfieri. Si noti sin d'ora che n√.. il
+Re nero, n√.. tantomeno il bianco, portranno trovare un rifugio veramente
+sicuro.} 12. Nh4 {[%emt 0:06:43]} f5 $1 {[%emt 0:08:22] Commentando in diretta
+con la WMF Maria De Rosa, questa mossa ci era piaciuta tantissimo e tra
+l'altro rispecchia pienamente lo stile dinamico del nostro collega del canale
+italiano Chess.com, Alessio Valsecchi! L'idea √.. quella di sbarazzarsi del
+pedone f6 per liberare la strada alla Donna nera.} 13. Nxf5 {[%emt 0:07:25]} (
+13. Qh5 $5 {E' come avrei giocato d'istinto in una simile situazione: penso
+che la cosa pi√>= importante non sia catturare il pedone, quanto "prendere
+posto" sull'ala di Re! Dopo} Bxd5 14. exd5 Qg5 $1 15. Qxh7 {il gioco √..
+equilibrato e pu√+/= persino concludersi gi√ qui con una ripetizione di mosse
+dato che} O-O-O $6 {appare troppo ambiziosa} (15... Rg7 16. Qh8+ Rg8 17. Qh7 e4
+$5) 16. g3 $1 (16. Nxf5 Rh8 17. Qxf7 Rdf8)) 13... Bxd5 {[%emt 0:10:21]} 14.
+exd5 {[%emt 0:01:47]} Rxg2 {[%emt 0:00:24]} 15. d4 $1 {[%emt 0:12:46] Bisogna
+dare atto ad entrambi i giocatori di avere giocato quetsa fase della partita
+con grande accuratezza, nonostante le evidenti complessit√ della posizione.
+Ladron De Guevara capisce che la chiave del gioco sar√ la rispettiva sicurezza
+dei Re e pertanto cerca di aprire la colonna e.} (15. Qf3 $1 {Poteva portare
+per trasposizione di mosse alla posizione raggiunta in partita. Occhio per√+/=
+a mangiare impunemente f2!} Qg5 (15... Rxf2 $2 16. Qg4) (15... Bxf2+ $4 16. Kf1
+)) 15... Qg5 $1 {[%emt 0:03:50] Il Nero ribatte colpo si colpo!} 16. Qf3 {
+[%emt 0:24:11]} Bxd4 {[%emt 0:10:18]} ({era interessante anche} 16... Rg4 $5
+17. dxc5 Rf4 18. Qh5 $1 Qxf5 (18... Qxh5 $4 19. Ng7+) 19. Qxf5 Rxf5 {con piena
+parit√}) 17. Nxd4 {[%emt 0:01:41]} exd4 {[%emt 0:03:03]} 18. d6 $1 {[%emt 0:02:
+56] Ben giocato! Il Bianco sfrutta i dettagli tattici presenti per inserire un
+fastidiosissimo cuneo nella posizione avverasaria} c6 {[%emt 0:01:42]} 19. Kf1
+{[%emt 0:01:17] Va riconosciuto a Valsecchi uno straordinario sangiue freddo.
+Non faccio fatica a confessarvi che, se avessi avuto il Nero in questa
+situazione, probabilmente avrei preso matto nel giro di una decina di mosse!
+Invece Alessio riesce nel difficile compito di coordinare i propri pezzi,
+trovare una casa relativamente sicura per il Re e - vedrete!- persino far
+giocare la povera Ta8.} Rg4 {[%emt 0:00:09]} 20. Re1+ {[%emt 0:00:16]} Kf8 {
+[%emt 0:00:28]} 21. h3 {[%emt 0:00:07]} Rf4 {[%emt 0:03:04]} 22. Qe2 {[%emt 0:
+00:04]} Qf5 {[%emt 0:04:14]} 23. Qe7+ {[%emt 0:14:45]} Kg7 {[%emt 0:00:07]} 24.
+Rg1+ {[%emt 0:04:27]} Kh6 {[%emt 0:00:08]} 25. Rg2 {[%emt 0:00:27] Le ultime
+mosse sono state naturali, ben giocate e virtualmente obbligate. Il Re nero √..
+andato a nascondersi in h6, dove ovviamente non sta al sicuro, perch√..
+essendo "tagliato" sulla colonna g pu√+/ = prendere matto molto rapidamente.
+Con la sua ultima mossa il Bianco protegge f2 e prepara l'attacco decisivo,
+mentre il Nero non ha ancora potuto utilizzare tutti i suoi pezzi...} (25. Re5
+Rxf2+ 26. Ke1 Qf4) 25... Qf6 $2 {[%emt 0:05:36] Solo qui il campione
+bergamasco mette il piede in fallo (facile a dirsi con l'assistenza del motore)
+. Il punto √.. che avrebbe dovuto privilegiare l'immediato controgioco/
+attivazione della Ta8, mentre nella sequenza scelta in partita il Bianco
+avrebbe avuto un modo, a onor del vero piuttosto difficile da scoprire in
+partita viva, per sfruttare la posizione esposta del Re nero.} (25... a5 $1 {
+era la mossa giusta!} 26. Qe2 a4 27. Qd2 Kh5) 26. Qe2 {[%emt 0:03:07] Al
+Bianco non conviene cambiare le Donne, poich√.. ha un re pi√>= sicuro} a5 {
+[%emt 0:04:09]} 27. Qd2 {[%emt 0:00:04]} Kh5 {[%emt 0:00:06]} 28. Re7 $1 {
+[%emt 0:00:32] L'inizio di una precisa manovra con i pezzi pesanti sulla
+colonna e.} a4 {[%emt 0:02:20] Una situazione drammatica! Anche il controgioco
+nero √.. arrivato, per cui ora il tempo sar√ il fattore determinante.} (28...
+Qxd6 29. Rxf7) 29. Qe2+ {[%emt 0:00:31]} Kh6 {[%emt 0:00:24]} 30. Re5 {[%emt 0:
+00:56]} Qh4 {[%emt 0:00:15]} (30... Rf5 31. Rxf5 Qxf5 32. Qd2+ (32. Qe7 f6)
+32... Kh5 33. Qd1+ Kh6 34. Qxd4 {con minacce imparabili}) 31. Qd2 $1 {[%emt 0:
+01:46]} axb3 {[%emt 0:04:49]} 32. cxb3 $4 {[%emt 0:00:26] Questa mossa
+naturale cosata a Ladron una vittoria fin qui meritata e alla squadra una
+probabile, quanto inaspettata vittoria contro la corazzata Padova! Infatti, a
+quel punto il match era in perfetto equilibrio 1,5 - 1,5 !!} (32. Rf5 $1 {Non
+era affatto facile giocare questa mossa, poich√.. il Nero dispone di numerosi
+scacchi} Ra1+ 33. Ke2 bxc2 34. Rxf4 c1=N+ $5 35. Qxc1 $1 Qh5+ 36. Kd2 Rxc1 37.
+Rf6+ {questo √.. il dettaglio decisivo. Il Bianco vince praticamente tutti i
+pezzi dell'avversario}) 32... Ra1+ {[%emt 0:01:02]} 33. Ke2 {[%emt 0:00:20]}
+Qf6 {[%emt 0:01:53]} 34. Re4 {[%emt 0:01:42]} d3+ $1 {[%emt 0:00:07] Una mossa
+che vale il titolo di campione d'Italia a squadre!} 35. Qxd3 {[%emt 0:00:16]} (
+35. Ke3 Rf3#) 35... Qxb2+ {[%emt 0:00:27]} 36. Ke3 {[%emt 0:00:06]} Rxe4+ {
+[%emt 0:03:35]} 37. Kxe4 {[%emt 0:00:09]} (37. Qxe4 Re1+) 37... Re1+ {[%emt 0:
+00:12]} 38. Kf3 {[%emt 0:00:48]} (38. Kf5 Qe5+ 39. Kg4 Re4+) 38... Qf6+ {[%emt
+0:00:44]} 39. Kg3 {[%emt 0:00:44]} Qe5+ {[%emt 0:01:56]} 40. Kf3 {[%emt 0:00:
+38]} Qf6+ {[%emt 0:00:25]} 41. Kg3 {[%emt 0:00:05]} Qg6+ $1 {[%emt 0:01:17]
+Superata la quarantesima, Valsecchi sceglie il modo pi√>= sicuro di convertire
+il vantaggio: il finale √.. senza speranze per il Bianco, che non ha modo di
+difender il pedone d6.} 42. Qxg6+ {[%emt 0:00:09]} hxg6 {[%emt 0:00:08] E
+cos√_|_ Padova √.. di nuovo campione. Ma quanti brividi!} 0-1
+
+[Event "Italian Women's Team Chess Championship"]
+[Site "Chess.com"]
+[Date "2023.04.28"]
+[Round "2"]
+[White "Gueci, Tea"]
+[Black "Brunello, Marina"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2188"]
+[BlackElo "2340"]
+[Annotator "Piscopo,P."]
+[SetUp "1"]
+[FEN "2r3k1/r4ppp/q7/2bPp1P1/pp2N3/5R1Q/PPP4P/1K3R2 b - - 0 30"]
+[PlyCount "6"]
+[EventDate "2023.??.??"]
+[SourceDate "2020.06.09"]
+[TimeControl "5400+30"]
+
+30... Bd4 31. g6 $3 {Questa e' stata secondo me la mossa piu' bella di tutta
+la manifestazione e fa piacere che sia stata giocata proprio nel Femminile.
+Per tali dirompenti mosse di pedone mi piace utilizzare la categoria di "mosse
+impossibili", poiche' davvero sembra impossibile che il pedone si porti in una
+casa estremamente ben controllata dall'avversario e invece non controllata dai
+propri pezzi. Ma questi sono gli scacchi, con la loro a volte imperscrutabile
+bellezza!} fxg6 {Il senso della mossa giocata da Gueci e' molteplice: sgombero
+della casa g5; apertura della colonna h; apertura della colonna f; apertura
+della diagonale e6/g8. In una posizione cosi' tesa ogni singolo tempo
+guadagnato ed ogni singolo indebolimento apportato al Re avversario valgono
+tantissimo!} (31... hxg6 {Questa mossa avrebbe permesso al Bianco di sferrare
+il proprio attacco sulla colonna h} 32. Ng5 f5 {cercando di tenere chiusa la
+colonna f} (32... b3 {Non √.. possibile ignorare le minacce del Bianco. Ad
+esempio:} 33. Qh7+ Kf8 34. Rxf7+ Rxf7 35. Rxf7+ Ke8 36. Qg8#) ({dopo
+l'alternativa} 32... f6 {vince banalmente} 33. Qh7+ ({invece} 33. d6 $1 {la
+piu' elegante e precisa! Il pedone e' immune, visto che la Da6 deve difendere
+la Tc8} Qc4 (33... fxg5 34. Qe6+ Kh7 35. Rh3#) 34. Qh7+ Kf8 35. Qh8+ Qg8 36.
+Rxf6+ gxf6 37. Rxf6+) 33... Kf8 34. Qh8+ Ke7 35. Qxg7+) 33. Qh7+ Kf8 34. Rxf5+
+{la piu' diretta, ma non e' l'unica mossa vincente. Il Bianco sacrifica una
+Torre per scardinare le difese nemiche} (34. d6 $1 Qxd6 (34... Ke8 35. Qg8+ Kd7
+36. Qe6+ Kd8 37. Rxf5 gxf5 38. Rxf5) 35. Qh8+ Ke7 36. Qxc8) (34. Qh8+ Ke7 35.
+Qxg7+ Ke8 36. Qg8+ Ke7 37. Qf7+ Kd6 38. Ne4+ (38. Qxg6+ Kc5 39. Qxf5) 38...
+fxe4 39. Rf6+ Kc5 40. Qxg6 Qb7) (34. Ne6+ Ke7 35. Qxg7+ (35. Qxg6) 35... Kd6
+36. Qxg6 Kxd5) 34... gxf5 35. Qxf5+ Ke8 (35... Ke7 36. Qf7+ Kd8 (36... Kd6 37.
+Ne4#) 37. Ne6+ Qxe6 38. Qxe6) 36. Qf8+) 32. Nd6 $3 {E questa √.. la vera e
+propria punta che pone fine all'incontro. Il Cavallo attacca la torre c8,
+ostruisce la sesta traversa permettendo lo scacco in e6 e impedisce anche alla
+Tc8 di andare in e8. Inoltre, non pu√+/= essere catturato... un Cavallo
+dell'Apocalisse!} h6 33. Qxc8+ {Davvero una prova convincente da parte di Tea
+Gueci ed una partita che secondo me √.. stata caratteristica dello stile di
+entrambe queste due nostre campionesse. Marina ha impostato una difesa molto
+rischiosa e tante volte questa strategia le ha fruttato delle belle vittorie.
+Tea ha dimostrato uno spiccato senso per l'attivit√ dei pezzi ed √.. cos√_|_
+riuscita a conquistare un risultato meritato quanto prestigioso.} 1-0
+
+[Event "Playoffs"]
+[Site "https://www.chess.com"]
+[Date "2023.05.01"]
+[Round "2"]
+[White "Godena, Michele"]
+[Black "Bifulco, Michel"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2572"]
+[BlackElo "2216"]
+[Annotator "Piscopo,P."]
+[SetUp "1"]
+[FEN "r3k2r/pp2ppbp/2n2np1/6N1/Q2Nq3/2P1B3/PP3P1P/2KR2R1 b kq - 0 17"]
+[PlyCount "14"]
+[EventDate "2023.??.??"]
+[SourceDate "2020.06.09"]
+
+17... Qh4 {Devo dire che una grande novita' di questo Master... e' stato
+Michele Godena con piu' tempo dei propri avversari in apertura! Un po' scherzo
+e un po' dico seriamente, Michele e' noto a tutti per essere un habitue dello
+zeitnot, pero' questa sua nuova attenzione alla gestione del tempo e' stata
+molto proficua, permettendogli poi di utilizzare i minuti preziosi risparmiati
+per esprimere il suo fantastico potenziale di calcolo. Qui a farne le spese e'
+la giovane promessa siciliana Michel Bifulco, che col coraggio (o incoscienza)
+tipico della sua eta' aveva deciso di accettare un sacrificio di pedone sin
+dalle prime mosse. Qui gli basterebbe arroccare per star bene, ma...} 18. Nxf7
+$1 {Si sa che all'inizio della partita il punto f7 e' esposto e Godena ne
+approfitta immediatamente} O-O $1 {Ben giocato! Il Nero ha bisogno di un paio
+di tempi per sistemare la sua posizione, ma purtroppo per lui il suo
+avversario sara' implacabile} ({il cavallo e' intoccabile, come dimostrano le
+seguenti varianti:} 18... Kxf7 19. Qb3+ Ke8 (19... Kf8 20. Ne6+) 20. Qxb7 Nxd4
+21. Rxd4 $1 Qxh2 22. Qxa8+ Kf7 23. Qh1) 19. Ng5 {Ora semplicemente il Nero ha
+posizione persa, data la debolezza del Re e l'attivit√ dei pezzi bianchi. Per
+cominciare, si minaccia uno scacco in b3...} Nxd4 20. Rxd4 Qxh2 {Bifulco fa il
+possibile, ma purtroppo per lui le risorse della sua posizione sono ben poche}
+21. Rgd1 Kh8 22. Rh4 Qg2 23. Rxh7+ $1 {Una chiusa elegante,ma normale
+amministrazione per un giocatore della classe del Michelone nazionale. Ora il
+Re nero non ha piu' difese e la terribile accoppiata Donna e Cavallo del
+Bianco porra' fine all'incontro} Nxh7 24. Qh4 {E qui giustamente Bifulco
+abbandona, poiche' per parare il matto dovrebbe sacrificare la Donna sul Cg5,
+con posizione persa} 1-0
+
+[Event "Cis Master"]
+[Site "?"]
+[Date "2023.05.01"]
+[Round "8"]
+[White "Moroni, Luca"]
+[Black "Salvador, Roland"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2500"]
+[BlackElo "2471"]
+[Annotator "Piscopo,P."]
+[SetUp "1"]
+[FEN "2rr2k1/1p3p1p/6pP/4p3/p1q1P3/PnB1PR2/1Q1P2P1/5RK1 b - - 0 27"]
+[PlyCount "20"]
+[EventDate "2023.??.??"]
+[SourceDate "2020.06.09"]
+[TimeControl "5400+30"]
+[WhiteClock "0:14:19"]
+[BlackClock "0:00:40"]
+
+27... Rc7 {[%emt 0:05:15] Il Nero deve usare una Torre per difendere f7.
+Salvador, chiunque ha giocato contro di lui puo' confermarlo, ha spiccate doti
+tattiche e probabilmente qui ha intravisto i problemi relativi all'alternativa}
+(27... Rd7 28. Bb4 Qxe4 29. d3 $3 {Una fantastica doppia deviazione, della De4
+che non puo' lasciare in presa e5, e della Td7 che non puo' abbandonare f7.
+Inoltre, ora la Donna bianca puo' portarsi rapidamente verso l'ala di re sul
+tragitto f2-g3(h4). Che dire, una mossa piccola, ma di significato grande!} Qd5
+30. Qf2 {con attacco molto forte, come dimostrano le due varianti indicative}
+f5 $2 (30... Rc1 31. Rxc1 Nxc1 32. Qh4 f5 33. Rxf5 gxf5 34. Qg5+) 31. Rxf5 gxf5
+32. Qxf5) 28. Ba5 $3 {[%emt 0:01:40] Ma finisce dalla padella alla brace! Qui
+Luca dimostra una piena padronanza delle geometrie della scacchiera ed un
+acuto occhio combinativo} (28. Bb4 Qxe4 29. d3 Rxd3 {Era l'idea del Nero.
+Rispetto alla variante vista in precedenza, il pedone d puo' essere catturato.}
+) 28... Nxa5 {[%emt 0:07:43] Altrimenti si perde semplicemente materiale a
+causa dell'infilata} 29. Qxe5 {[%emt 0:00:17]} f5 {[%emt 0:02:11]} 30. exf5 $1
+{[%emt 0:06:19] Giustamente il Bianco punta al Re e non si accontenta di
+catturare il Cavallo avversario smarritosi sull'ala opposta.} Nb3 {[%emt 0:01:
+38]} 31. fxg6 {[%emt 0:01:11]} hxg6 {[%emt 0:00:35]} 32. Qf6 $1 {[%emt 0:01:37]
+Un micidiale attacco doppio. Il Nero riesce ancora a tenere per qualche mossa,
+ma e' inerme rispetto allo strapotere dei pezzi pesanti avversari che trovano
+nel pedone h6 un utile alleato.} Qd3 {[%emt 0:00:27]} 33. Qe6+ {[%emt 0:00:45]}
+Kh7 {[%emt 0:00:32] Anche le alternative sono perdenti.} (33... Kh8 34. Rf8+
+Kh7 (34... Rxf8 35. Rxf8+ Kh7 36. Qf6) 35. Qg8+ Kxh6 36. Rxd8) 34. Rf7+ {[%emt
+0:00:10]} Rxf7 {[%emt 0:00:08]} 35. Rxf7+ Kxh6 36. Qh3+ Kg5 37. Qg3+ {E matto
+alla prossima} 1-0
+

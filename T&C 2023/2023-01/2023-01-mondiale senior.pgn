@@ -1,0 +1,189 @@
+[Event "FIDE WSCC 50 2022"]
+[Site "Assisi"]
+[Date "2022.11.24"]
+[Round "9"]
+[White "Sturua, Zurab"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "1-0"]
+[WhiteElo "2522"]
+[BlackElo "2480"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "3r1rk1/p2n2np/1p1q1pp1/2p5/3PPNb1/1PQ3N1/P1BR2PP/5RK1 b - - 0 24"]
+[PlyCount "30"]
+[EventDate "2022.??.??"]
+
+{[#]} 24... cxd4 ({A partire da qui Morovic ha iniziato a smarrire la retta
+via.} 24... Ne5 $1 25. Nd5 cxd4 26. Qxd4 Kh8 $1 {sarebbe stata del tutto
+giocabile per il Nero.}) 25. Rxd4 Qe5 $2 ({L'errore perdente.} 25... Qc5 26.
+Qxc5 Nxc5 27. Rxd8 Rxd8 {sarebbe stata chiaramente meglio, anche se} 28. b4 {
+avrebbe ancora offerto al Bianco un discreto vantaggio in finale.}) 26. Qd2 $1
+Rc8 {[#] Forse il Nero aveva contato su questa mossa, ma il Bianco la confuta
+con precisione.} ({Bisognava tentare} 26... Qe8 {.}) 27. Bd1 $1 Bxd1 28. Rxd7
+$1 {... guadagnando un pedone e mettendo al contempo la Torre in settima
+traversa. Ora il Nero collassa velocemente.} Bg4 29. Rxa7 Rcd8 (29... Be6 {era
+l'unica per continuare a combattere ancora un po', anche se dopo} 30. Qb4 {
+difficile credere che il Nero sarebbe sopravvissuto a lungo.}) 30. Nd5 f5 $2 (
+30... Kh8 {offriva una maggiore, benche' futile, resistenza.}) 31. Re7 {Il
+resto e' facile per il Bianco.} Qd6 32. Qh6 Rf7 33. Rxf7 Kxf7 34. Qxh7 Qe5 35.
+Nf4 Rd6 36. h3 Qc5+ 37. Kh2 Bd1 38. exf5 gxf5 39. Nfh5 1-0
+
+[Event "FIDE WSCC 50 2022"]
+[Site "Assisi"]
+[Date "2022.11.19"]
+[Round "5"]
+[White "Berend, Elvira"]
+[Black "Danielsen, Henrik"]
+[Result "1-0"]
+[WhiteElo "2280"]
+[BlackElo "2514"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "3q1r2/1R3pkp/4pnp1/r5N1/3P3P/6Q1/5PP1/3R2K1 b - - 0 30"]
+[PlyCount "10"]
+[EventDate "2022.??.??"]
+
+{[#]} 30... Kg8 $2 (30... Qc8 $11 {e il Nero √.. ok.}) 31. Nxf7 $1 {Ops!
+Cos√_|_ il Bianco ottiene un vantaggio decisivo.} Rxf7 ({Oppure} 31... Ne4 32.
+Nxd8 Nxg3 33. Nxe6 Ne2+ 34. Kh2 $18 {.}) 32. Rb8 Rf8 33. Rxd8 Rxd8 34. Qc7 Rad5
+35. Qe7 ({Una resa forse prematura, visto che dopo} 35. Qe7 Re8 36. Qc7 (36.
+Qxf6 Rf5) 36... e5 {il Nero avrebbe avuto ancora speranza di creare una
+fortezza.}) 1-0
+
+[Event "FIDE WSCC 65 2022"]
+[Site "Assisi"]
+[Date "2022.11.18"]
+[Round "3"]
+[White "Nunn, John D M"]
+[Black "Shnaider, David"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2580"]
+[BlackElo "2225"]
+[Annotator "DM"]
+[PlyCount "43"]
+[EventDate "2022.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 g6 {e' piu' comune
+e precisa.} (6... a6 {e' piu' comune e precisa.}) 7. Bxc6 Nxc6 8. d4 $1 {Una
+forte novita' , dopo la quale il Bianco sta gia'  meglio.} ({Una precedente
+partita di alto livello magistrale era proseguita} 8. b3 Bg7 9. Bb2 O-O 10. Na4
+Qa5 11. Bxg7 Kxg7 12. d4 cxd4 13. Nxd4 {+/=, Wirig-Tirard, Nancy 2005.}) 8...
+cxd4 {[#]} 9. Nd5 $1 exd5 10. exd5+ Ne7 11. Bf4 $1 {Il Nero adesso deve
+evitare d6.} d6 $1 (11... Qxb2 $2 12. d6 Qb6 13. Rb1 $18 Qc5 14. Nxd4 {sarebbe
+stata disastrosa.}) 12. Nd2 $1 {Questa manovra rende il sacrificio di pezzo
+molto potente a lungo termine. Le prossime poche mosse del Nero hanno senso,
+anche se dovra'  dire addio al suo pedone 'd'.} Qa6 13. Ne4 $1 Bg7 14. Nxd6+
+Kf8 15. Qf3 {Il Bianco e' molto piu' attivo, mentre le Torri nere sono
+piazzate male.} ({qui} 15. Rxe7 $1 {era possibile: dopo} Kxe7 16. Qe1+ Be6 (
+16... Kd7 17. Qe4 {seguita da 18. Te1 fa calare il sipario}) 17. dxe6 fxe6 18.
+Qb4 Kd7 19. Nxb7 {l'attacco del Bianco continua.}) 15... f5 $2 {L'errore
+decisivo.} ({La difesa migliore era} 15... Bd7 {, dopo la quale} 16. Rxe7 Kxe7
+17. Re1+ Kf8 (17... Kd8 18. Qe4) 18. Qe4 Kg8 19. Qe7 Rf8 20. Qxd7 Qa5 {
+potrebbe bastare al Nero per resistere.}) 16. Qg3 $1 {Semplicemente
+minacciando, tra le altre cose, 17.Ó Bg5 e 17.Ó Bh4.} Bd7 {[#]} 17. Rxe7 $1 {
+Il colpo di grazia.} Kxe7 18. Qg5+ Kf8 19. Re1 {Con l'idea De7+ e poi matto.}
+Be8 {Permettendo un matto veloce.} 20. Qe7+ Kg8 21. Qe6+ Kf8 22. Qxe8+ $1 1-0
+
+[Event "FIDE WSCC 65 2022"]
+[Site "Assisi"]
+[Date "2022.11.26"]
+[Round "11"]
+[White "Fernandez Garcia, Jose Luis"]
+[Black "Kristiansen, Jens"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2353"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "8/2k5/4p3/K7/1PB5/2b5/2P5/8 b - - 0 43"]
+[PlyCount "34"]
+[EventDate "2022.??.??"]
+
+{[#]} 43... e5 $2 (43... Kd6 {o perfino}) (43... Kd7 {sarebbero bastate ancora
+per un pareggio, per esempio} 44. Kb5 (44. Bf1 Kd6 45. Bg2 Ke5 $1 46. Kb5 Kd4 {
+√.. simile}) 44... Kd6 45. Be2 Kd5 $1 46. Bf3+ Kd4 $1 {e ora il pedone nero
+comincer√  finalmente a correre.}) 44. Bd5 {Portare l'Alfiere sulla diagonale
+lunga √.. decisivo, visto che tiene sotto controllo il pedone passato del Nero
+e impedisce al suo Re di arrivare in d4.} Kd6 45. Be4 Kc7 46. Kb5 Kd6 47. Bf3
+Kc7 (47... e4 $5 48. Bxe4 Ke5 49. Kc4 Bd2 50. Bf3 Bh6 51. Bg2 {non sarebbe
+stata comunque sufficiente per pareggiare.}) 48. Kc4 Be1 49. Kc5 Bc3 50. Be4
+Bd4+ 51. Kb5 Bc3 52. Bf3 e4 $2 (52... Kd6 {avrebbe opposto maggiore resistenza,
+anche se dopo} 53. Kc4 Be1 54. Be4 Bd2 55. Kb3 {seguita da c4 il Bianco
+avrebbe dovuto vincere comunque.}) 53. Bxe4 Kd6 54. Bf3 Kc7 55. Kc5 Kd7 56. b5
+Kc7 57. b6+ Kb8 58. Kc6 Kc8 59. Bg4+ Kb8 60. Bf5 ({Ora il Nero deve fare una
+mossa d'Alfiere e liberare il pedone 'c' del Bianco, perch√ } 60. Bf5 Ka8 {
+conduce a un matto veloce:} 61. Kc7 Be5+ 62. Kc8 Bc3 63. Be4# {.}) 1-0
+
+[Event "FIDE WSCC 65 2022"]
+[Site "Assisi"]
+[Date "2022.11.19"]
+[Round "5.1"]
+[White "Nunn, John D M"]
+[Black "Hebert, Jean"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2580"]
+[BlackElo "2333"]
+[Annotator "DM"]
+[PlyCount "49"]
+[EventDate "2022.??.??"]
+
+1. e4 {[%cal Ye2e4,Ye4e5]} e6 2. d4 d5 3. Nc3 Nc6 4. e5 Bd7 5. f4 Nh6 6. Be3 f6
+7. Nf3 Nf5 ({Una mossa nuova che non serve a migliorare in maniera sensibile
+il gioco del Nero rispetto a} 7... Qe7 {, giocata nella Kapferer-Hecht,
+Schwarzach 1998, che era proseguita} 8. Qd2 O-O-O 9. a3 Qf7 10. O-O-O Nf5 11.
+Bf2 h5 12. Bd3 Be7 13. Rhe1 $16 {.}) 8. Bf2 fxe5 9. dxe5 $1 Bb4 {[%cal Yd5d4]}
+10. a3 Be7 $6 ({Un po' meglio} 10... Bxc3+ 11. bxc3 O-O 12. Bd3 $16 {.}) 11.
+Qd2 O-O 12. O-O-O {[%cal Yc3d5] Minacciando la letale Cxd5!} Kh8 13. g4 Nh6 14.
+Rg1 Qe8 15. h4 b5 16. f5 $5 ({Il Nero sperava probabilmente in} 16. Nxb5 Nxe5
+17. Nfd4 (17. fxe5 Bxb5 18. Nd4 Bd7 $11) 17... Nexg4 {, anche se dopo} 18. Nxc7
+{si sarebbe trovato comunque in grossi guai.}) (16. Bxb5 {avrebbe d'altra
+parte subito chiuso i conti:} Nxe5 17. Bxd7 Nxf3 (17... Nxd7 18. Rde1) 18. Bxe8
+Nxd2 19. Bc6 Nf3 20. Rg3 $18 {.}) 16... b4 ({Non sarebbe stata migliore} 16...
+exf5 17. Nxd5 fxg4 18. Ng5 b4 (18... Nxe5 19. Nxc7) 19. Nxe7 bxa3 20. Qd3 $1
+$18 {.}) 17. axb4 Bxb4 18. f6 Ng8 19. g5 Nge7 ({Oppure} 19... a5 20. Qf4 $1 $18
+{.}) 20. g6 Nf5 21. Bd3 hxg6 {[#]} 22. h5 $1 gxf6 23. Bxf5 g5 24. exf6 Qf7 25.
+Rxg5 $1 1-0
+
+[Event "FIDE WSCC 50 2022"]
+[Site "Assisi"]
+[Date "2022.11.23"]
+[Round "8.3"]
+[White "Bellia, Fabrizio"]
+[Black "Antic, Dejan"]
+[Result "1-0"]
+[ECO "C09"]
+[WhiteElo "2398"]
+[BlackElo "2412"]
+[Annotator "DM"]
+[PlyCount "115"]
+[EventDate "2022.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Qe7+ 7. Be2 Qc7 8.
+O-O Nf6 9. dxc5 Bxc5 10. Nb3 Be7 11. Bg5 O-O 12. c3 Rd8 13. Re1 Bf5 14. Nfd4 {
+[#]} Be4 ({Una novit√ . La Vokhidov-Kryakvin, San Pietroburgo 2019, era
+proseguita} 14... Bg6 15. Bh4 Ne4 16. Bxe7 Nxe7 17. Bd3 (17. Bf1) 17... Nc6 18.
+f3 Nd6 19. Bf1 Qb6 20. Qd2 a5 $11 {.}) 15. Bh4 a6 16. Bd3 Re8 17. Bxe4 dxe4 18.
+Qc2 ({Un'alternativa poteva essere} 18. Nxc6 Qxc6 19. Qc2 Rad8 20. Re2 Qa4 $11
+{.}) 18... Qf4 ({Piu' precisa} 18... Rad8 19. Nxc6 Qxc6 20. Re2 Qa4 {, come
+nella linea della nota precedente.}) 19. Bg3 {[#]} ({Da considerare} 19. Bxf6
+Bxf6 20. Nxc6 bxc6 21. g3 Qg4 22. h3 $5 Qxh3 23. Rxe4 {seguita da Ó Rae1, con
+gioco pi√>= semplice per il Bianco in finale.}) 19... Qg5 $2 ({Bisognava prima
+cambiare i Cavalli: dopo} 19... Nxd4 20. Nxd4 Qg5 {il finale sarebbe stato
+all'incirca pari.}) 20. Nxc6 $1 bxc6 21. Nd2 e3 ({Mirando ad attivare
+l'Alfiere, ma} 21... Qg6 22. Nxe4 Nh5 {avrebbe dato maggiori possibilit√  di
+resistenza.}) 22. Rxe3 Bc5 23. Ne4 Nxe4 24. Rxe4 Qd5 25. Rae1 Rxe4 26. Qxe4 Rd8
+({Un po' meglio} 26... Qd2 27. Qe2 Qd5 28. b3 Bf8 {.}) 27. Qxd5 cxd5 28. Rd1 f6
+29. Kf1 Kf7 30. f3 Ke6 31. Bf2 Bd6 32. h3 Rb8 33. Rd2 Bf4 34. Rc2 a5 35. b3 {
+[%cal Yb2b3,Yb3b4]} a4 36. b4 Be5 (36... Rc8 37. Ke2 Be5 38. Bc5 {sarebbe
+rientrata in partita.}) 37. Ke2 Rc8 38. Bc5 $1 Bd6 39. Bxd6 Kxd6 40. Kd3 Rc4
+41. a3 h5 42. Rb2 Kc6 ({Oppure} 42... Rc7 43. b5 Kc5 44. b6 Rb7 45. Rb4 $18)
+43. b5+ Kb6 {[#]} 44. Rb4 $1 Rc7 (44... Rxb4 45. cxb4 Kxb5 {avrebbe comunque
+perso il finale:} 46. Kd4 Kc6 47. h4 g5 48. g3 $18 {.}) 45. Rd4 Rc5 46. Rxa4
+Kxb5 47. Ra7 g5 ({Oppure} 47... Rc4 48. Rxg7 Ra4 49. Rf7 $18 {.}) 48. a4+ Kb6
+49. Rf7 Rc6 50. Kd4 {Game over.} Ka5 (50... g4 51. fxg4 hxg4 52. Kxd5 Rc5+ 53.
+Kd4 Rf5 54. Ke4 {avrebbe comunque dato al Bianco una facile vittoria.}) 51.
+Kxd5 Rxc3 52. Rxf6 Rc2 53. g4 Rh2 54. Ke4 Rxh3 55. Rf5+ Kxa4 56. Rxg5 h4 57.
+Rh5 Rh1 58. Kf4 {Una partita ben condotta da Bellia.} 1-0
+

@@ -1,0 +1,28 @@
+[Event "Open Elllobregat"]
+[Site "Sant Boi de Llobregat SPA"]
+[Date "2022.12.06"]
+[Round "7.9"]
+[White "Bartel, Mateusz"]
+[Black "Dvirnyy, Danyyil"]
+[Result "0-1"]
+[WhiteElo "2627"]
+[BlackElo "2514"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "3r1rk1/1bq2pp1/p1nRp2p/2Q1N3/8/P1P5/B4PPP/R5K1 w - - 0 23"]
+[PlyCount "10"]
+[EventDate "2022.11.30"]
+
+{La posizione e' equilibrata, ma il GM polacco decide di provare a ottenere di
+piu'...} 23. Nxf7 $2 (23. Rad1 Rxd6 24. Rxd6 Rd8 25. Rxd8+ Qxd8 {avrebbe
+condotto a un finale pari. Da notare che} 26. Nxc6 {non si puo' giocare a
+causa della debolezza della prima traversa (} Qd1# {): un dettaglio sfuggito
+forse a Bartel, ma non a Dvirnyy.}) 23... Rxf7 24. Rxe6 Kh8 $1 25. Rxc6 $4 ({
+E' chiaro che il Bianco contava su questa mossa. Del resto ora} 25. Rae1 Re7 $1
+{avrebbe condotto a un finale facilmente vinto per il Nero, sempre grazie alla
+solita ragione:} 26. Rxe7 Qxe7 $1 27. Rxe7 Rd1+ 28. Re1 Rxe1# {.}) 25... Rfd7
+$1 {Forzata e vincente. Il Bianco ora ha la scelta tra una fine rapida 
+(subendo matto) o una leggermente piu' lenta (perdendo la Torre c6). Bartel
+opta per la prima.} 26. Rxc7 Rd1+ 27. Rxd1 Rxd1# {Un genere di conclusione che
+si vede raramente in partite classiche fra GM!} 0-1
+

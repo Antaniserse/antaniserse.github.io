@@ -1,0 +1,126 @@
+﻿[Event "81st ch-ITA 2022"]
+[Site "Cagliari ITA"]
+[Date "2022.11.14"]
+[Round "3.4"]
+[White "Brunello, Sabino"]
+[Black "Dvirnyy, Danyyil"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2518"]
+[BlackElo "2514"]
+[Annotator "Brunello,S"]
+[PlyCount "77"]
+[EventDate "2022.11.12"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "ITA"]
+[EventCategory "9"]
+[SourceTitle "The Week in Chess 1462"]
+[Source "Mark Crowther"]
+[SourceDate "2022.11.14"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.11.14"]
+[SourceQuality "2"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 {Una mossa interessante per
+mantenere quanti più pezzi possibile sulla scacchiera} g6 6. d4 (6. Bc4 {
+è una mossa critica, che non ho giocato a causa di} b5 (6... c5 7. h4 Nc6 8.
+h5 Bg4 9. hxg6 {è molto tagliente, ma più pericolosa per il Nero}) (6... Bg7
+7. h4 O-O 8. h5 Bg4 9. hxg6 hxg6 {porta a una posizione interessante in cui la
+colonna h aperta lascia al Bianco prospettive di attacco. Tuttavia il Nero ha
+un buon controllo centrale e non sarà facile portare la Donna in h7}) 7. Be2
+$1 {una mossa precisa che mantiene sotto attacco il pedone b5. Non sapevo come
+valutare questa posizione, ma sarebbe stata una direzione di gioco molto
+interessante. Ad es.} Bg7 8. O-O O-O 9. d4 Qc7 10. Re1 Bb7 11. Bg5 Nbd7 12. Qd2
+Rfd8 13. c4 bxc4 14. Bxc4 Nb6 15. Qa5) ({L'immediata} 6. h4 {non ha molto
+senso a causa di} Bg4) 6... Bg7 7. h3 {Mi sono pentito di questa mossa. Volevo
+assicurarmi la possibilità di giocare Ae3 senza dovermi preoccupare di ...Cg4}
+({anche dopo} 7. Be2 {è possibile giocare} c5 $5) 7... c5 8. Be2 Nc6 (8...
+cxd4 {sembra un errore posizionale, ma esiste una soluzione concreta} 9. Qxd4
+Qxd4 10. Nxd4 Nd5 $1 11. Nb5 Nc6 $1 {e il Bianco non ha modo di sfruttare la
+posizione precaria dei pezzi neri}) 9. dxc5 Qxd1+ 10. Kxd1 (10. Bxd1 Nd7 11. c3
+Nxc5 12. Bc2) 10... Nd7 11. c3 f5 $5 {Una mossa sorprendente e molto ambiziosa:
+prima di recuperare il pedone il Nero punta a conquistare il centro. Deve
+avanzare prima il pedone f perché altrimenti Ce4 sarebbe spiacevole} (11...
+Nxc5 12. Be3 Ne6 {è meno emozionante ma del tutto giocabile}) 12. Re1 {
+una mossa importante per contrastare l'avanzata del pedone e} e5 (12... Nxc5
+13. Bb5 O-O {è oggettivamente giocabile, ma non l'ho davvero considerata in
+partita perché il pedone in e7 è debole}) 13. Bb5 (13. Bc4 Nxc5 ({è invece
+favorevole al Bianco} 13... e4 14. Kc2 Nxc5 15. Be3 Ne6 16. Ng5 Nxg5 17. Bxg5
+$14 {perché il centro Nero è ancora instabile}) 14. Nxe5 Nxe5 15. f4 Be6 16.
+Bxe6 Nxe6 17. fxe5 Rd8+ {con pieno compenso per il pedone}) (13. Kc2 Nxc5 14.
+b4 Ne6 15. Bc4 Bd7 {e il Nero ha buon gioco}) 13... O-O 14. Ng5 $1 {la mossa
+su cui puntavo. Il Nero ha grossi problemi di coordinazione. La minaccia è
+Ac4+} Nd8 $1 {necessaria ma sufficiente} 15. f4 $1 {devo distruggere il centro
+Nero prima che abbia tempo di consolidare} h6 $1 (15... e4 {incontra alcuni
+problemi:} 16. Bc4+ Kh8 17. h4 $1 ({durante la partita la mia intenzione era
+di giocare} 17. Be3 Nf6 (17... h6 18. Ne6 Nxe6 19. Bxe6 Nxc5 20. Bxf5 $16) 18.
+h4 Ng4 {con posizione interessante dove purtroppo devo ammettere che il Nero
+ha controgioco sufficiente}) 17... Nxc5 18. Be3 {e il Bianco ha una forte
+iniziativa}) 16. fxe5 $6 ({è più prudente} 16. Bc4+ Kh8 17. Nf3 e4 18. Nd4
+Nxc5 19. Be3 $11 {e il Bianco ha un ottimo Cavallo in d4 e buon controllo
+sulle case nere, ma il Nero svilupperà nuovamente il Cd8 e ha una buona
+posizione}) 16... hxg5 $6 {un forte cambio di ritmo nella posizione} ({Mi
+aspettavo} 16... Bxe5 {che il mio avversario ha detto di non avere neanche
+considerato!} 17. Ne6 $1 (17. Bxd7 Bxg3 $19) 17... Nxe6 18. Bxd7 Bxd7 (18...
+Nxc5 19. Rxe5 Nxd7 {è un'altra coordinazione impressionante. Il Nero sviluppa
+molto velocemente}) 19. Rxe5 {e pensavo la posizione fosse circa pari. Si può
+approfondire} Kg7 $1 {in Nero ha compenso più che sufficiente per il pedone
+di svantaggio. Una variante pazza è} (19... f4 20. Ne4) 20. c6 Kf6 21. cxb7
+Rad8 22. Ra5 Bc6+ 23. Ke1 Bxg2 24. Rxa7 {ed ognuno dei due colori sta
+nettamente vincendo sulla propria metà della scacchiera! Il mio computer
+dichiara parità}) 17. e6 Nxe6 18. Rxe6 Nf6 (18... Kf7 19. Re1 Nxc5 20. Bxg5
+Be6 {sembra rischiosa per il Nero, ma ha sufficiente attività per compensare
+il pedone di svantaggio}) (18... Ne5 19. Rd6 Kh7 {è giocabile}) 19. Re7 $6 {
+molto naturale ma imprecisa} (19. Re1) 19... f4 $6 (19... Rd8+ $1 20. Ke1 Kf8
+$1 {una sorpresa molto sgradevole: la Torre è in difficoltà! Tutte le
+varianti seguenti hanno problemi evidenti} 21. Re2 (21. Rxg7 Kxg7 22. Bxg5 Bd7
+$15) (21. Rc7 f4 22. c6 b6 23. Ne2 Nd5 $15) 21... f4 22. Ne4 Nxe4 23. Rxe4 Bf5
+$17 {Il Nero ha una fortissima iniziativa}) 20. Ne2 $1 {la destinazione del
+Cavallo è f3!} Rd8+ (20... Nd5 21. Bc4 Rd8 22. Nd4 Kf8 23. Re2) 21. Nd4 Kf8 {
+troppo tardi: ora la Torre trova una comoda collocazione. Mi sentivo contento
+perché dal mio punto di vista il Nero si sta assumendo tutte le
+responsabilità: se non riesce a creare dinamismo nelle prossime mosse il
+pedone di vantaggio si farà sentire presto} 22. Re2 Bf5 (22... Nh5 $5 23. Bd3
+(23. Rd2 Bxd4 24. cxd4 Nf6 25. Ke2 Ne4 26. Rd1 Be6) 23... Bxd4 24. cxd4 Rxd4
+25. Rd2 Bf5 26. Bxf5 Rxd2+ 27. Bxd2 gxf5 28. Rc1 Rd8 29. b4 {e anche questa
+posizione sbilanciata dovrebbe essere pari}) (22... Nd5 23. Bd2 Nc7 $1 24. Bd3
+Bxd4 25. cxd4 Ne6 {e sembra che il Nero abbia abbastanza gioco per pareggiare.
+Ad es.} 26. d5 Nxc5 27. Bxg6 Rxd5 28. b4 Ne6 29. Ke1 Bd7 30. Be4 Rd6 31. Bc3
+Nd4 32. Bxd4 Rxd4 33. Bxb7 Rb8 34. Bf3 Rdxb4 35. Rd1 Ba4 36. Rd5 R4b5) 23. Ke1
+(23. Bd2 a6 24. Nxf5 gxf5 25. Bc4 Ne4 26. Kc2 Rac8 {mostra le difficoltà
+tecniche del Bianco} 27. Bd3 Nxd2 28. Rxd2 Rxc5 29. Rad1 g4 {e la partita
+dovrebbe finire patta}) 23... Ne4 {Una mossa spontanea, ma molto rischiosa.
+Sono più prudenti} (23... a6) (23... Rac8) 24. c6 $1 {Giocata con pochi
+secondi. Per mia fortuna non ho giocato la simile} (24. Nxf5 $2 gxf5 25. c6 Rd6
+$1 26. cxb7 Rb8 $19 {Il Bianco ha perso coordinazione e i 2 pedoni di
+vantaggio non sono utili nel difendersi dalle minacce di Txb7 e Cxc3}) 24...
+Bxd4 ({Il Nero deve eliminare il Cavallo perché dopo} 24... Rd6 25. cxb7 Rb8
+26. Bc6 $18 {la posizione nera crolla}) 25. cxd4 Rxd4 (25... bxc6 26. Bxc6 Ng3
+27. Re5 Rac8 28. d5 Bd7 {lascia al Nero sufficiente controgioco se si difende
+con precisione:} 29. h4 Bxc6 30. dxc6 Rxc6 31. hxg5 Rd4 32. b3 Kf7 33. Bb2 Re4+
+34. Rxe4 Nxe4 35. Rc1 Ra6 $1 (35... Re6 36. Rc7+ Ke8 37. Rxa7 $16 {è
+disastrosa per il Nero}) 36. a4 Rb6 37. Rc4 Rxb3 38. Rxe4 Rxb2 39. Rxf4+ Ke7 {
+questo finale è patto}) 26. b3 $1 {Finalmente l'Ac1 entra in partita. Il
+Bianco ha un vantaggio molto evidente, ma meno grande di quanto possa sembrare
+a prima vista perché il Nero è ancora molto attivo} (26. cxb7 $4 Rad8 {
+è un modo imbarazzante di perdere}) 26... bxc6 27. Bxc6 Rc8 28. Ba3+ (28. Bb2
+Ng3 29. Re5 Rd3 30. Bb5 Rdd8 31. Rc1 $14 {è più precisa. La coppia degli
+Alfieri è forte}) 28... Kf7 29. Rc1 Rcd8 30. Bb7 {Una ripetizione per
+guadagnare tempo sull'orologio. La minaccia di Tc7 è forte ed ero sicuro che
+il Nero si sarebbe difeso} R8d7 (30... g4 {è giocabile, con poco tempo
+sull'orologio non è facile da considerare}) 31. Bc6 Rd8 32. Bb5 {ormai ero
+convinto di avere un vantaggio enorme, ma le cose non sono così semplici} g4 (
+32... Kg8 {è giocabile} 33. Be7 Rb8 34. Bc6 Rc8 {e non esiste una
+coordinazione perfetta perché dopo} 35. Rc4 Rxc4 36. Bd5+ Kg7 37. Bxc4 $2 (37.
+bxc4 Nf6 $11) 37... g4 $1 38. hxg4 Rh8 $17 {improvvisamente il Nero è in
+vantaggio!}) 33. Rc7+ Kf6 $2 {Finalmente il Nero crolla e perde materiale. Il
+resto è molto semplice} (33... Ke6 34. Bc4+ Ke5 35. Bb2 {sembra terribile per
+il Nero, ma dopo} gxh3 36. Rxa7 h2 37. Rh7 Bg4 38. Rxh2 Bxe2 39. Kxe2 Kf5 40.
+Bxd4 Rxd4 {è ancora una volta tutto a posto}) 34. Be7+ Ke5 35. Bxd8 Rxd8 36.
+hxg4 Rh8 37. Kd1 Bxg4 38. Re7+ Kd5 39. R7xe4 {Il Nero abbandona. Penso questa
+sia stata la mia partita migliore degli ultimi anni. Nonostante l'apertura un
+po' lenta e il cambio delle Donne siamo entrati in una posizione estremamente
+tesa che necessitava sia di calcolo preciso che di valutazioni posizionali per
+nulla evidenti} 1-0
+

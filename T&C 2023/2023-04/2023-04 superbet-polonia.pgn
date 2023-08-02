@@ -1,0 +1,144 @@
+[Event "Grand Chess Tour: Superbet Poland Rapid"]
+[Site "Chess.com"]
+[Date "2023.05.21"]
+[Round "1"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2670"]
+[BlackElo "2853"]
+[Annotator "DM"]
+[PlyCount "75"]
+[EventDate "2023.??.??"]
+[EventType "blitz"]
+
+1. d4 b5 $6 {Probabilmente l'ex campione del mondo ormai √.. annoiato dalle
+normali aperture e ha deciso di provare qualcosa di pi√>= pungente. Wojtaszek,
+tuttavia, punir√  l'esperimento in modo convincente.} 2. e4 Bb7 3. Bd3 Nf6 4.
+Nd2 c5 5. c3 {Un modo solido e privo di risch per contrastare la provocatoria
+scelta di Carlsen.} cxd4 6. cxd4 e6 7. Ngf3 Nc6 8. O-O {Il Bianco non deve
+farsi distrarre dal pedone b5.} ({A} 8. Bxb5 $6 {seguirebbe} Qb6 {con buon
+compenso per il pedone.}) 8... a6 $6 (8... Be7 {√.. meglio, anche se la
+posizione sarebbe rimasta comunque molto sospetta.}) 9. Re1 (9. d5 $1 exd5 10.
+e5 {: vedremo questa idea alla prossima mossa, ma sarebbe stata gi√  molto
+buona anche qui.}) 9... Be7 {[#]} 10. d5 $1 {Un'avanzata devastante. La
+posizione del Nero √.. gi√  quasi persa.} exd5 11. e5 Nh5 12. Nb3 {Minacciando
+di guadagnare il Cavallo con g2-g4.} g6 13. Bh6 {Il Nero viene privato
+dell'arrocco e il suo Cavallo h5 √.. fuori gioco.} Rg8 {La prima mossa nuova.}
+(13... Bf8 {era stata giocata nella Koscielski-Straeter, Germania 1996.}) 14.
+Be3 $1 {L'Alfiere ha fatto il suo lavoro e adesso torna indietro per
+supportare il Cavallo in c5.} Ng7 15. Nc5 Qc7 16. Rc1 Ne6 17. Nxb7 Qxb7 18. Bf1
+(18. Bb1 {L'Alfiere sarebbe stato forse pi√>= utile in b1 di quanto lo sar√ 
+in f1.}) 18... Bb4 19. Re2 Ne7 ({Il computer suggerisce} 19... d4 {come un
+miglior tentativo di difesa, ma la posizione √.. davvero molto triste per il
+Nero:} 20. Bxd4 Ncxd4 21. Nxd4 Rc8 22. Rxc8+ Qxc8 23. Nc2 Bc5 24. Ne3 $16 {.})
+20. Rec2 Nf5 21. Bg5 $1 {Una buona mossa. Se il Nero cattura l'Alfiere, la
+Torre √.. pronta a invadere c7.} Be7 ({Dopo} 21... Nxg5 22. Nxg5 {il Bianco
+minaccia il pedone h7 e Ó Rc7.}) 22. Bf6 $1 {Dopo il cambio degli Alfieri, il
+pedone in f6 offre al Bianco occasioni di attacco sulle case scure.} Nfg7 23.
+Qd3 $6 {Il Bianco aveva una meravigliosa combinazione vincente:} (23. Ng5 $3 {
+(l'idea del sacrificio √.. di ottenere la casa c7 per la Torre)} Nxg5 (23...
+Bxf6 24. exf6 Nxg5 25. Qxd5 $1 Qxd5 26. Rc8+ Rxc8 27. Rxc8# {: un delizioso
+scacco matto}) 24. Rc7 Qb8 25. Qxd5 Qd8 26. Qxa8 $1 Qxa8 27. Rc8+ Qxc8 28.
+Rxc8+ Bd8 29. Rxd8# {.}) 23... Bxf6 $6 (23... Nh5 {√.. pi√>= coriacea.}) 24.
+exf6 Nh5 25. Qc3 $1 {Difendendo il pedone f6 e preparando Ó Be5 o Ó Bb4 in
+alcune varianti.} Rd8 26. a3 (26. Qe5 $1 {√.. pi√>= accurata:} d6 27. Qe3 Nxf6
+28. Rc7 Qb8 29. Ng5 {con un attacco vincente.}) 26... Qb8 27. g3 {Wojtaszek
+migliora con calma la sua posizione.} g5 $6 (27... Qd6 {√.. meglio.}) 28. Re1
+g4 29. Nd4 {Il Cavallo √.. pronto a spostarsi in f5.} Rg5 (29... Rg6 {perde
+ugualmente dopo} 30. Bd3 Rxf6 31. Nf5 {con l'idea di 32.Ó Bb4 o anche 32.Ó ..
+g7+.}) 30. Bd3 $1 ({Interessante anche} 30. h4 $5 {, poich√  dopo} gxh3 31.
+Bxh3 Nxg3 {il Bianco ha una bella confutazione:} 32. fxg3 Rxg3+ 33. Rg2 $1 Rxc3
+34. Rg8# {.}) 30... Re5 31. Nf5 $6 {Un seguito coerente, che offre tuttavia al
+Nero alcune possibilit√ .} ({Pi√>= forte} 31. Rce2 $1 Rxe2 32. Rxe2 {con una
+posizione vincente: il Re nero √.. bloccato al centro, il pedone g4 √.. debole
+e il Cavallo h5 √.. fuori dai giochi.}) 31... Rxe1+ $6 (31... d4 $1 {era
+l'unica mossa che poteva offrire un po' di speranza:} 32. Qb4 (32. Nxd4 $2 Nxd4
+) 32... Rxe1+ 33. Qxe1 Nxf6 34. Re2 Nd5 $16 {.}) 32. Qxe1 Nxf6 33. Qb4 $1 {
+Adesso il Nero √.. perduto.} d6 34. Qc3 Nd7 (34... d4 35. Nxd4 {non offre
+sollievo.}) 35. Qh8+ Ndf8 36. Qf6 Ng6 37. Re2 Qc7 38. Ng7+ {Un'ottima prova da
+parte di Wojtaszek.} 1-0
+
+[Event "Chess.com"]
+[Site "Chess.com"]
+[Date "2023.05.23"]
+[Round "8"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2724"]
+[BlackElo "2742"]
+[Annotator "DM"]
+[PlyCount "67"]
+[EventDate "2023.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 Nf6 6. Nxe5 b5 7. f3 O-O 8. a4
+c5 9. Be3 cxd4 10. Qxd4 Qe7 11. axb5 Rd8 12. Qxc4 Be6 13. Qe2 Qc7 14. Nc4 Nbd7
+15. Ra4 Bxc3+ 16. bxc3 {Il Bianco ha guadagnato due pedoni, ma non √..
+riuscito a trovare il tempo per arroccare. Il Nero ora ha l'iniziativa e la
+usa per sbilanciare ulteriormente la posizione.} Nc5 17. Rb4 Nd3+ {Forzando il
+Bianco a cambiare la Donna per una Torre e un Cavallo.} 18. Qxd3 $1 ({
+Ovviamente non} 18. Kd2 Nxb4+ {: ecco come possono andare male le cose se la
+Donna non viene sacrificata.}) 18... Rxd3 19. Bxd3 {La posizione che ne
+risulta lascia il Bianco con due pedoni in pi√>=, ma con il difficile compito
+di coordinare tutti i suoi pezzi minori e maggiori.} Nd7 20. Bd4 a5 21. bxa6
+Rxa6 {Questo cambio aiuta in qualche modo il Bianco, permettendogli di rendere
+pi√>= tangibile il suo vantaggio di due pedoni.} 22. O-O Ra8 23. Rfb1 h6 24.
+Bf1 Kh7 25. Ne3 {Il Bianco ha fatto due mosse di coordinamento importanti;
+entrambi i giocatori stanno attendendo attivamente gli errori dell'altro.} Qd6
+26. Nd5 Bxd5 27. exd5 g6 $2 {Vachier-Lagrave vuole giocare h5 e iniziare a
+fare della pressione sul lato di Re del Bianco. Il modo migliore per farlo era,
+tuttavia, con} (27... Ra2 {visto che 27...g6 crea delle debolezze.}) 28. c4 Ra2
+29. R4b2 {Una mossa sensata e di principio, anche se Stockfish non √..
+d'accordo.} (29. R4b3 {√.. quanto suggerito dal motore, con l'idea di piazzare
+entrambe le Torri dietro i pedoni 'c' e 'd'.}) 29... Qf4 $2 {Il Nero spera di
+togliere al Bianco il controllo delle case scure con un sacrificio di qualit√ ,
+per poi continuare ad attaccare con h5, h4 e h3, ma l'idea √.. troppo lenta.} (
+{Dopo} 29... Rxb2 30. Rxb2 {, comunque, il Nero avrebbe avuto un compito
+difficile nel fermare i pedoni passati e uniti, mentre la coppia di Alfieri
+bianchi avrebbe contribuito a rendere impenetrabile la difesa intorno al Re
+bianco.}) 30. Rxa2 Qxd4+ 31. Kh1 h5 32. Raa1 h4 33. Rd1 {Le Torri bianche sono
+ora pronte a supportare i pedoni passati.} Qf2 34. h3 {Una mossa semplice e
+letale. Dopo} (34. h3 Kg7 35. d6 Qb2 36. Ra5 Qc2 37. Rad5 {il vantaggio del
+Bianco sarebbe stato netto, perci√+/= MVL si √.. arreso.}) 1-0
+
+[Event "Chess.com"]
+[Site "Chess.com"]
+[Date "2023.05.24"]
+[Round "14"]
+[White "Carlsen, Magnus"]
+[Black "Shevchenko, Kirill"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2853"]
+[BlackElo "2684"]
+[Annotator "DM"]
+[PlyCount "49"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Nb3 d6 8. f3
+O-O 9. Qd2 Be6 10. O-O-O Ne5 11. Kb1 Rc8 12. h4 h5 13. Be2 a6 14. Bd4 Qc7 {Il
+Dragone produce spesso dei begli attacchi con arrocchi eterogenei e questa
+partita non fa eccezioni. Avendo bisogno di vincere, Carlsen ha optato per un
+modo tematico di aprire il lato di Re.} 15. g4 $1 {I fan dell'attacco
+Yugoslavo avranno familiarit√  con questa comune spinta. Spesso, il Bianco
+cede un pedone per aprire la colonna 'h', ma qui Carlsen ha altre idee.} hxg4
+16. f4 {Cacciando il Cavallo nero... o cos√_|_ credeva Schevchenko.} Nc6 $2 {
+Il margine di errore √.. piccolissimo in queste partite di alto livello. Anche
+se questa ai pi√>= pu√+/= sembrare una mossa normale, il vantaggio che Carlsen
+riuscir√  a ottenere da questo errore √.. notevole.} ({Il Nero avrebbe dovto
+tentare} 16... Rfd8 $1 {, poich√  dopo} 17. fxe5 $2 ({molto meglio} 17. h5 {,
+un'altra mossa tipica dell'attacco Yugoslavo: nonostante uno svantaggio di due
+pedoni, dopo} gxh5 {il Bianco sar√  in grado di creare una pressione
+fortissima sul lato di Re avversario}) 17... dxe5 {l'inchiodatura sull'Alfiere
+avrebbe paralizzato ogni inziativa e costretto il Bianco a giocare in difesa
+con} 18. Qe3 {.}) 17. Bxf6 $1 Bxf6 18. Nd5 Bxd5 {Il Nero non vuole perdere
+l'Alfiere del Dragone!} 19. exd5 Nd4 20. Bxg4 Nxb3 21. axb3 a5 {Shevchenko
+cerca di fare breccia sul lato di Donna, ma √.. troppo tardi.} 22. h5 a4 23.
+hxg6 axb3 {Notate come il Nero continui a cercare di distrarre il Bianco dal
+lato di Re. Sempre professionale, Carlsen non fa favori.} 24. cxb3 Ra8 25. Qh2
+{Il Nero deve sacrificare troppo materiale per non subire matto, perci√+/= si
+arrende.} 1-0
+

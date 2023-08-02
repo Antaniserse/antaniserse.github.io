@@ -1,0 +1,295 @@
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.06"]
+[Round "2"]
+[White "Subasic, Ilijas"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2475"]
+[Annotator "IR"]
+[SetUp "1"]
+[FEN "1B6/8/1pb1P3/1n3k2/5N2/pK6/8/8 w - - 0 53"]
+[PlyCount "14"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+{Ó /\ Il Nero aveva cercato di spremere il sangue da una rapa per molte mosse,
+ma la difesa del Bianco non era molto difficile. Tuttavia, dopo uno zeitnot
+che aveva portato al controllo del tempo della cinquantesima mossa, il Bianco
+aveva iniziato a giocare lampo, cercando di finire la partita prima che la
+bandierina sul suo orologio cadesse. Avevo deciso di unirmi al divertimento -
+naturalmente non c'era incremento - e cos√_|_ la partita era proseguita
+spedita (mi ricordo che in realt√  avevo un'ora in pi√>= nelle mosse tra la 51
+e la 70).} 53. e7 $6 Be8 $1 54. Nd5 $6 {Il Bianco sta cercando di creare
+complicazioni, ma} (54. Nd3 {, con l'intenzione di giocare 55.Ó Pe5, era pi√>=
+sicura. Avrebbe, tuttavia, perso il pedone e7, che √.. il motivo per cui
+Subasic aveva optato per qualcosa "di meglio".}) 54... Bf7 55. e8=Q $1 {Il
+Bianco aveva giocato le sue ultime cinque mosse in un minuto e aveva ancora un
+minuto per vincere la sua partita contro la bandierina. Dal canto mio avevo
+solo qualche secondo per muovere prima che la mia bandiera cadesse 
+(lasciandomi con un'ora sull'orologio, ma avendo perso la battaglia secondaria)
+.} Bxe8 56. Nxb6 $4 Bf7+ 57. Kc2 {Ó /\} Nd4+ $1 {Giocata molto velocemente con
+grande cautela, permettendo alla mia bandierina di cadere cedendo al mio
+avversario la vittoria "morale"...  All'improvviso Subasic aveva realizzato
+che cosa aveva fatto e aveva iniziato a pensare sul serio per la prima volta
+dalla quarantesima mossa. Le vittorie morali non contano, come aveva
+saggiamente notato una volta Tartakower.} 58. Kb1 a2+ 59. Kb2 Nc2 $1 0-1
+
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.??"]
+[Round "?"]
+[White "Franco Ocampos, Zenon"]
+[Black "Kouatly, Bachar"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2440"]
+[BlackElo "2425"]
+[Annotator "IR"]
+[PlyCount "72"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 {Con la stella nascente Garry Kasparov che aveva iniziato a usare la
+Difesa Grunfeld, Ó Rb1 era forse la linea pi√>= di moda nella pratica dei
+grandi maestri del tempo. In effetti, la mossa √.. rimasta popolare dalle
+origini del suo sviluppo, alla fine degli anni '70, fino ai giorni nostri.} O-O
+9. Be2 {Ó /\} Nc6 {Ora, i superGM tendono a preferire la cattura del pedone,} (
+9... cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 {, ma nel 1984 mancavano ancora due anni
+prima che Korchnoj e Dorfman dessero all'idea la loro approvazione.}) 10. d5
+Ne5 11. Nxe5 Bxe5 12. Qd2 $1 {Una mossa introdotta da Nana Alexandria nella
+sua infruttuosa sfida per il titolo mondiale del 1981 contro Maya
+Chiburdanidze, dopodich√  le imitazioni hanno abbondato.} e6 13. f4 Bg7 14. c4
+Re8 15. e5 f6 16. d6 $1 fxe5 {Ó /\} 17. Bb2 $1 {"Sono stato fortunato", aveva
+commentato Franco, "di aver guardato un po' questa linea e di aver avuto la
+possibilit√  di utilizzare la mia analisi alla scacchiera".} e4 $2 (17... exf4
+{√.. critica.}) 18. Bxg7 Kxg7 19. h4 $1 {Koualty √.. rimasto cos√_|_ colpito
+dal gioco di Franco che due settimane pi√>= tardi avrebbe utilizzato la stessa
+linea con il Bianco alle Olimpiadi di Salonicco contro Mario Cocozza, vincendo
+in maniera convincente dopo 19...e3 20.Ó Bc3+ Ó Bf6 21.Ó Be5!.} h5 {Condannata
+da Franco nelle sue annotazioni per l'Informatore scacchistico, ma il Nero non
+ha davvero molto da fare.} {Ó /\} 20. g4 $1 {Questo era il miglioramento di
+Franco a una partita di Kouatly di qualche mese prima, che era continuata} (20.
+Rd1 Bd7 21. Qb2+ Qf6 22. Qxb7 Qc3+ 23. Kf1 Rad8 24. Qxa7 Qe3 25. Rh3 Qxf4+ 26.
+Kg1 {(K. Georgiev-Kouatly, St. Maxime 1984) e qui} Qe5 $1 {, invece di} (26...
+e5 $2 27. Rb3 $1 {sarebbe stata buona per il Nero.  Koualty era arrivato al
+punto di chiedere all'amico sudamericano di Franco che si trovava a Belgrado,
+Hernan Salazar, se Franco sapesse che avrebbe giocato contro di lui e se
+avesse preparato questa linea appositamente per l'occasione. No, come tutti
+gli altri, Franco aveva visto gli abbinamenti solamente dopo essere entrato in
+sala da gioco.})) 20... hxg4 21. h5 Rh8 22. Bxg4 b6 23. Rb3 {Qui o alla mossa
+successiva} (23. Qe2 {, con l'idea} Bb7 24. Qb2+ $1 Qf6 25. Qe5 $1 {, sarebbe
+stata molto forte.}) 23... Bd7 24. Rbh3 Qf6 $1 {Controllare la diagonale lunga
+offre l'unica possibilit√ .} 25. hxg6 Rxh3 26. Rxh3 {Ó /\} Qa1+ (26... Qxg6 {
+perde immediatamente a causa di} 27. Qb2+ $1 {.}) 27. Bd1 (27. Kf2 {era di
+gran lunga pi√>= semplice, per esempio} Rh8 28. Rxh8 Kxh8 29. f5 $1 {e il Nero
+pu√+/= abbandonare.}) 27... Ba4 28. f5 e3 {Franco era pi√>= preoccupato da} (
+28... Bxd1 29. Rh7+ Kf6 {, ma dopo} 30. Qxd1 {gli scacchi del Nero finiscono
+velocemente e} Qxd1+ 31. Kxd1 exf5 32. g7 $1 {vince il finale di Torri.}) 29.
+Rh7+ Kg8 {Ó /\} 30. Qd3 $2 {Sbagliando proprio quando la vittoria era a un
+passo. Il Bianco aveva calcolato fino a} (30. Qxe3 $1 Qxd1+ 31. Kf2 Qc2+ 32.
+Kg3 Qxf5 {, ma non aveva visto} 33. Rh8+ $1 Kg7 34. Qh6+ Kf6 35. Rf8+ $1 Rxf8
+36. g7+ {, che chiude la partita.}) 30... Bxd1 31. Qxd1 Qc3+ {Il Nero decide
+di essersi divertito abbastanza e forza la patta.} (31... Qxa2 {era un
+tentativo migliore, anche se dopo} 32. Qd3 $1 Qf2+ 33. Kd1 e2+ 34. Qxe2 Qxf5 {
+, il Bianco ha solo bisogno di trovare} 35. Re7 Qxg6 36. Qxe6+ Qxe6 37. Rxe6 {
+per raggiungere un finale di Torri che si riesce a pareggiare abbastanza
+facilmente.}) 32. Ke2 Qb2+ $1 (32... Qxc4+ {avrebbe creato altri problemi in
+considerazione di} 33. Kxe3 $1 Qc3+ 34. Kf4 {in cui il Re bianco pu√+/=
+nascondersi davanti ai suoi pedoni.}) 33. Kxe3 Qe5+ 34. Kf2 Qxf5+ 35. Qf3 Qc2+
+36. Ke1 Qc1+ {"Una cosa che ricordo", aveva raccontato Franco, "√.. di aver
+comprato delle copie dell'Informatore sacchistico e di averle messe su un
+tavolo [vicino]; dopo un po' di tempo erano scomparse!".  Franco aveva sperato
+di proseguire per Salonicco, ma "non mi era stato detto che fossi in squadra!",
+aveva spiegato in seguito. "Non c'era internet e non avevo ricevuto posta. I
+miei rapporti con la Federazione non erano buoni".  All'insaputa di Franco, la
+Federazione paraguayana lo aveva comunque registrato in prima scacchiera, per
+avere un numero di tabellone pi√>= alto nella competizione open. Non serv√_|_
+a molto e il Paraguay si piazz√+/= 56¬~/= su 88.} 1/2-1/2
+
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.08"]
+[Round "4"]
+[White "Seret, Jean Luc"]
+[Black "Andrijevic, Milan"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2370"]
+[Annotator "IR"]
+[SetUp "1"]
+[FEN "r2r4/5pk1/p2qb1pp/1p1p1n2/3P2Q1/P1N2N2/1P2RPPP/4R1K1 w - - 0 23"]
+[PlyCount "15"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+{Questa posizione si √.. sviluppata da un'altra linea di apertura alla moda,
+una di quelle che il veterano Vasily Smyslov aveva usato per sorprendere
+Zoltan Ribli durante il loro incontro nella semifinale dei Candidati di Londra
+del 1983.  A prima vista il Bianco non ha niente di meglio di 23.Ó ..e5 Ó Re8,
+in cui il Nero √.. vicino al pareggio, ma Seret trova un'opzione migliore...} 
+23. Rxe6 $3 fxe6 24. Ne5 Ne7 {Questa sembra reggere, mentre} (24... g5 25. h4
+$1 Nxh4 26. Qh5 Ra7 27. f4 $1 {offre al Bianco un forte attacco.}) 25. Ne2 $3 {
+Il punto dietro il sacrificio di Seret. 26.Ó ..f4 √.. una minaccia importante.}
+Rg8 {Questa perde velocemente, ma} (25... Rf8 26. Nf4 Rxf4 27. Qxf4 Rf8 28. Qg4
+{√.. incredibilmente difficile da difendere per il Nero, per esempio} Rf5 29.
+Rc1 Rg5 30. Qf4 Rf5 31. Qe3 {e il Bianco presto avr√  la meglio sulla colonna
+'c' e invader√  il campo nemico.}) 26. Nf4 Kh7 27. Nf7 $1 Qd7 28. Nxe6 (28.
+Nxh6 $1 Kxh6 29. Nxe6 {sarebbe stato un altro modo per mettere la ciliegina
+sulla torta.}) 28... Nf5 29. Nxh6 $1 Rge8 30. Nxf5 {Dopo} (30. Nxf5 Rxe6 31.
+Rxe6 Qxe6 32. Qh3+ Kg8 33. Nh6+ {la Donna del Nero √.. perduta.}) 1-0
+
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.09"]
+[Round "5"]
+[White "Rogers, Ian"]
+[Black "Maksimovic, Branimir"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2475"]
+[BlackElo "2300"]
+[Annotator "IR"]
+[PlyCount "51"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+1. e4 e6 2. Nf3 $5 {Al contrario dell'altro maestro internazionale in gara in
+questo torneo, ero contento delle linee secondarie e dei gambetti che facevano
+parte del mio repertorio, anche se va detto che questa variante aveva un certo
+pedigree, visto che la linea principale (per trasposizione) era stata usata
+con successo in una partita del Campionato mondiale del 1966.} d5 3. Nc3 Nf6 4.
+e5 Nfd7 5. d4 c5 6. dxc5 Nc6 7. Bf4 {Ó /\} Be7 $5 {Non c'√.. niente di
+sbagliato in} (7... Bxc5 {, ma Maksimovic sapeva che prediligevo la variante
+dei Due Cavalli contro la Francese e aveva in serbo questa sorpresa.}) 8. h4 $5
+{Il Bianco era troppo orgoglioso per sviluppare il suo Alfiere f1 in d3 in
+vista di} (8. Bd3 Nxc5 {e cerca un'alternativa aggressiva.}) 8... Nxc5 9. h5 a6
+(9... O-O {era pi√>= coraggiosa e migliore, visto che} 10. h6 g6 11. Qd2 d4 $1
+{funziona bene per il Nero.}) 10. Rh3 {Ó /\  "Dopo aver detto A, bisogna dire
+B" √.. probabilmente il peggior tipo di consiglio che si possa dare a uno
+studente di scacchi, ma nel 1984 pensavo che la costanza fosse una virt√>=.} d4
+{Questa mi sembrava molto noiosa, ma di nuovo} (10... O-O {dovrebbe risultare
+buona, per esempio} 11. Rg3 f6 $1 {e il mio "attacco" √.. una chimera.}) 11.
+Nb1 Na4 {Ero pi√>= preoccupato da} (11... Qd5 12. Nbd2 b5 {, perch√  dopo} 13.
+Bd3 Nb4 14. Nb3 $1 Nbxd3+ 15. cxd3 Nxb3 16. Qxb3 Qxb3 17. axb3 Bb7 18. Nxd4 Rc8
+{il finale sembrava orribile per il Bianco (il mio computer moderno insiste
+che 0.00 sia la valutazione corretta).}) 12. b3 Qa5+ (12... Qd5 $5 {, di nuovo,
+mi faceva preoccupare, ma} 13. Be2 {dovrebbe essere buona.}) 13. Bd2 Nc3 14.
+Nxc3 dxc3 15. Bf4 Qb4 $2 {Solo adesso ero sicuro che il Bianco fosse a posto.}
+(15... Ba3 {, guadagnando il pedone a2, era critica. Tuttavia, avevo valutato
+che dopo} 16. Rg3 (16. Ng5 $1 Nxe5 17. Ne4 {√.. perfino pi√>= spaventosa per
+il Nero}) 16... g6 17. Bc4 {avrei avuto buone possibilit√ .}) 16. Bc4 $1 Bd7 (
+16... b5 17. a3 Qa5 18. Bd3 {offre al Bianco tutto quello che potrebbe volere
+in questa linea.}) 17. Kf1 $1 O-O-O 18. Kg1 h6 19. a3 Qb6 {Ó /\} 20. Qe1 {Ora
+il pedone c3 √.. impossibile da salvare. Il Nero prova con la tattica a
+mantenerlo in vita, ma il suo piano aveva un difetto che non era troppo
+difficile da vedere.} Bc5 $5 21. b4 Nxb4 22. axb4 Qxb4 23. Bd3 $1 {La
+confutazione. Qui in caso di 23...Ó Bxf4 il Bianco ha 24.Ó Rh4 Ó Bg3 25.Ó Rc4!,
+dopodich√  il mio primo spostamento di Torre smette di sembrare cos√_|_
+stupido.} Bc6 24. Bc1 Qg4 25. Rh4 Qg3 26. Be3 1-0
+
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.11"]
+[Round "7"]
+[White "Kapetanovic, Armin"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2285"]
+[BlackElo "2475"]
+[Annotator "IR"]
+[PlyCount "57"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 Bb7 7. e3 d6 8.
+Be2 Nbd7 9. O-O O-O 10. b4 Ne4 11. Qc2 f5 {Ó /\} 12. d5 $5 {All'epoca questa
+era una mossa completamente nuova e a Belgrado Kapetanovic l'aveva usata con
+successo due volte contro avversari di alto livello.} exd5 (12... e5 $5 {√..
+la risposta pi√>= ovvia ed era stata tentata da Arshak Petrosian in un turno
+precedente (Petrosian si era gi√  assicurato la sua ultima norma di grande
+maestro a Yerevan una settimana prima, ma non gli era stato ancora assegnato
+ufficialmente il titolo).  Dopo} 13. Bd3 $5 (13. Nd2 {ai giorni nostri √..
+considerata perfino pi√>= forte}) 13... c6 14. dxc6 Bxc6 15. Bb2 {Petrosian
+aveva commesso un errore con} Rf6 $2 {, dopo la quale Kapetanovic aveva trovato
+} 16. Nh4 $1 g6 17. f4 Rf8 18. Nf3 Qe7 19. Rad1 a5 $6 20. c5 $1 {e il Bianco
+aveva ottenuto una pressione vincente sulle diagonali a2-g8 e a1-h8.}) 13. Nd4
+$1 Qf6 14. cxd5 Bxd5 15. Bb2 (15. Qxc7 $2 Ndc5 $1 {decisamente non era quello
+che il Bianco intendeva.}) 15... Qg6 {Il Nero deve procedere con molta cautela,
+per esempio} (15... Ne5 $2 {perde un pezzo dopo} 16. f3 {.}) 16. f3 Ng5 17. Bd3
+(17. Rad1 {era pi√>= accurata per ragioni che diventeranno subito chiare.})
+17... Ne5 $1 18. Nxf5 Ngxf3+ $1 19. Kh1 Qh5 20. Bxe5 $1 dxe5 21. gxf3 Bxf3+ 22.
+Rxf3 $6 {Entrambi i giocatori credevano che} (22. Kg1 Qg5+ 23. Ng3 Qxe3+ {
+sarebbe stata buona per il Nero, ma in effetti dopo} 24. Rf2 {i tre pedoni non
+sono sufficienti per il pezzo perso.}) 22... Qxf3+ 23. Kg1 Rxf5 $2 {Uno
+sfortunato errore di calcolo in zeitnot.  Dopo una mossa neutrale come} (23...
+Rad8 {il Nero dovrebbe stare bene, anche se con altre 27 mosse da giocare
+prima del controllo del tempo, le possibilit√  di sopravvivenza da parte di
+Ivkov non sarebbero state alte.}) 24. Bxf5 Qxe3+ 25. Kh1 $1 g6 {Troppo tardi,
+Ivkov aveva realizzato che} (25... Qf3+ {non avrebbe condotto al perpetuo a
+causa di} 26. Qg2 $1 {, dopo la quale 26...Ó Bxf5 non si pu√+/= giocare per
+via di 27.Ó Bxa8+.}) 26. Rf1 $1 Qg5 (26... gxf5 {sarebbe andata incontro allo
+stesso problema -} 27. Qg2+ {.}) 27. Qxc7 Re8 28. Bxg6 $1 {Il terzo
+pseudo-sacrificio di Alfiere consecutivo. La fine del Nero √.. vicina.} Qe7 29.
+Qc4+ 1-0
+
+[Event "Belgrade Open"]
+[Site "?"]
+[Date "1984.11.12"]
+[Round "8"]
+[White "Kapetanovic, Armin"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2285"]
+[BlackElo "2475"]
+[Annotator "IR"]
+[SetUp "1"]
+[FEN "5k1r/4ppbp/3p1n2/rNpPn1B1/Pp3Nb1/8/1P3PPP/R3RBK1 w - - 0 19"]
+[PlyCount "26"]
+[EventDate "1984.??.??"]
+[EventType "game"]
+[EventCountry "SRB"]
+[SourceDate "2001.09.18"]
+
+{Gli affezionati del gambetto Benko riconosceranno questa posizione come un
+residuo della variante Zaitsev (5.Ó ..c3 axb5 6.e4 b4 7.Ó ..b5). Entrambi
+avevamo usato un'ora sull'orologio e avevo l'impressione che il Nero stesse
+bene (anche se il computer non √.. convinto che il Nero avesse molto dopo 19.
+b3).  Di certo Kapetaonvic non si voleva accontentare di difendere banalmente
+un finale inferiore e, dopo aver pensato a lungo, se n'√.. uscito con un'idea
+straordinariamente originale.} 19. Rac1 $1 h6 {Avevo trascorso i primi minuti
+chiedendomi perch√  il Bianco dovesse cedere il pedone a4, mettendo la sua
+Torre in una casa stupida. Avevo capito che} (19... Rxa4 $2 20. Ra1 $1 {era
+molto promettente per il Bianco, ma ancora non riuscivo a capire quale fosse
+l'attrattiva di c1.}) 20. Bh4 h5 $1 {Qui con ...Ó Ph6 come nuova minaccia e il
+pedone a4 ancora sospeso avevo pensato che avrei preso il sopravvento. Fino a..
+.} 21. Rxc5 $3 {Non capita spesso che un avversario pensi per mezz'ora e io
+non abbia  nemmeno considerato la mossa che gioca!  La notazione corretta
+forse √.. !??, ma i punti esclamativi sono per l'immaginazione.} dxc5 {Il mio
+primo istinto era di giocare} (21... Bh6 $5 {e lasciare il Bianco con troppi
+pezzi sospesi, ma poi mi sono reso conto che} 22. Rc7 $1 Bxf4 23. Bxf6 exf6 24.
+Re4 {avrebbe potuto essere un po' difficile. Quattro decenni pi√>= tardi, il
+computer ha confermato che la posizione del Nero √.. pi√>= che un po'
+difficile e dopo una linea come} Bd2 25. h3 Bf5 (25... Bd7 26. Rxe5 Bxb5 27.
+Ree7 Be8 {risulta reggere}) 26. Rd4 $1 Bh6 27. Nxd6 Bg6 28. Bb5 $1 {il Bianco
+√.. vicino alla vittoria. Cos√_|_ ho cominciato ad analizzare la cattura in c5
+e quasi subito ho visto che c'era un difetto nell'idea geniale del Bianco...})
+22. Rxe5 Ng8 $1 23. Re1 Bxb2 {Con una casa di fuga per il Re nero in g7,
+l'attacco del Bianco non √.. sufficiente.} 24. d6 exd6 25. Nxd6 Rxa4 26. Re8+
+Kg7 27. h3 Bd7 28. Rd8 Ra7 29. Bc4 {I pezzi bianchi sembrano collocati
+ottimamente per l'attacco, ma il Nero ha troppo materiale e perfino 29...Ó ..
+f6 funziona per lui.} Be5 $1 30. Nxf7 Bxf4 31. Kf1 Bb5 0-1
+

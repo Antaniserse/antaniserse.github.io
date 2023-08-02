@@ -1,0 +1,347 @@
+﻿[Event "Mosca campionato"]
+[Site "Moscow"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Averbakh, Yuri L"]
+[Black "Bebchuk, Evgeni"]
+[Result "1-0"]
+[ECO "A29"]
+[Annotator "Del Dotto,Riccardo"]
+[SetUp "1"]
+[FEN "8/1p4p1/1pk2p1p/4rP2/PR4PP/3KP3/8/8 b - - 0 47"]
+[PlyCount "12"]
+[EventDate "1964.??.??"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{Diagramma #} 47... b5 $2 {Un errore assolutamente tipico. Bebchuk intende
+sdoppiare i propri pedoni per passare da un finale di Torri a un finale di
+soli pedoni, dove ritiene di essere avvantaggiato dalla presenza di un pedone
+passato lontano.} ({Il Nero avrebbe dovuto pensare per primo a ipotesi di
+spinta di rottura come} 47... h5 $1 48. Rc4+ ({oppure} 48. Rb5 {suggerita da
+Dvoretsky:} Re8 $1 ({perde} 48... Rxb5 $2 49. axb5+ Kxb5 50. e4 {con modalità
+pressoché identiche a quanto poi avvenuto}) 49. gxh5 Rh8) 48... Kd6 49. Rd4+
+Ke7 50. Rb4 hxg4 51. e4 g3 52. Rxb6 Kf8 53. Rxb7 Ra5 54. Rb2 Rxa4 55. Ke3 g2
+56. Rxg2 Ra3+ 57. Kf4 Rh3 58. Rg4 Kf7 {con inevitabile pareggio.}) 48. Rxb5 $1
+{Averbakh è ben disposto al cambio.} Rxb5 49. axb5+ Kxb5 50. e4 {In moto il
+candidato.} Kc6 {Diagramma #} 51. e5 $1 {Spinta di rottura che il Nero deve
+aver sottovalutato. Lo scopo è chiaramente quello di dotarsi di un pedone
+libero.} fxe5 ({Dopo} 51... Kd5 52. e6 {(siamo nella cosiddetta "Regola di
+Sergio Leone": "Quando l'uomo col pedone passato lontano incontra l'uomo col
+pedone passato sostenuto, l'uomo col pedone passato lontano è un uomo morto")}
+Kd6 53. Kc4 Kc6 54. Kb4 Kd6 55. Kb5 Kc7 56. Kc5 Kd8 57. Kb6 Kc8 58. h5 Kd8 59.
+Kxb7 Ke7 60. Kc7 Ke8 61. Kd6 Kd8 62. e7+ Ke8 63. Ke6 {(no, non è stallo)} g6
+64. hxg6 {con matto fra due mosse.}) 52. g5 hxg5 ({Non basta} 52... Kd6 53. f6
+Ke6 (53... gxf6 54. gxh6) 54. fxg7 Kf7 55. gxh6 b5 {(qui ci imbattiamo nel
+tema del "quadrato fluttuante": il quadrato, che ha per angoli i due pedoni
+neri situati sulla stessa traversa, ha vertici che vanno al di fuori della
+scacchiera, per cui il Re bianco fermerà entrambi; anche perché la distanza
+tra i due pedoni è di sole due colonne)} 56. Kc3 ({stessa cosa per} 56. Ke4 b4
+57. Kd3 Kg8 58. Kc4 e4 59. Kxb4 e3 60. Kc3) 56... Kg8 57. Kb4 e4 58. Kc3 Kh7
+59. Kd4 b4 60. Kxe4 b3 61. Kd3 {e nessun pedone nero è arrivato alla meta.})
+53. f6 $1 {Il terzo sacrificio di pedone permette al Bianco di lanciare verso
+la promozione il proprio pedone di Torre.} ({L'ordine di esecuzione è
+estremamente importante, dal momento che invertendo le mosse, il risultato non
+è più lo stesso:} 53. h5 $2 Kd7 54. f6 Ke6 $1 55. fxg7 Kf7 56. h6 b5 {mentre
+il Re nero blocca i due pedoni, quello bianco deve arrendersi, visto che
+stavolta nulla può contro tre pedoni avversari distanziati.}) 1-0
+
+[Event "EU-campionato"]
+[Site "Istanbul"]
+[Date "2003.06.05"]
+[Round "6"]
+[White "Nijboer, Friso"]
+[Black "Nielsen, Peter Heine"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2562"]
+[BlackElo "2625"]
+[Annotator "Riccardo Del Dotto"]
+[SetUp "1"]
+[FEN "8/2p1bp1p/1pk3p1/p3P3/P3K1P1/1P2P3/7P/4B3 b - - 0 34"]
+[PlyCount "31"]
+[EventDate "2003.05.30"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2003.09.25"]
+
+{Diagramma #} 34... Bb4 ({Il Nero avrebbe potuto optare per} 34... Kd7 {, dato
+che gli Alfieri dello stesso colore paiono dominarsi a vicenda:} 35. Kd5 Bg5
+36. Bd2 Be7 37. Bc3 {con situazione insabbiata.}) 35. Bxb4 $2 {Il GM olandese
+vuole compromettere la struttura pedonale nera sul lato della sua maggioranza.}
+axb4 {Hecht: 'Thema: schlechte weiße Bauernstruktur; Zugzwang; der entfernte
+Freibauer. '} 36. g5 {Sotto il profilo concettuale la più accurata, giacché
+mangia i tempi al Ph7. Tuttavia l'ala di Donna può riservare sorprese
+inaspettate.} ({Lavorare subito con} 36. Kd4 {anticipa i temi della gara,
+senza sbilanciare i pedoni del versante Est:} Kd7 37. Kc4 c5 38. a5 bxa5 39.
+Kxc5 a4 40. Kxb4 axb3 41. Kxb3 Ke6 42. Kc4 Kxe5 {Diagramma # [#]
+Variantendiagramm} 43. Kd3 Kf6 44. Ke4 Kg5 45. Ke5 Kxg4 46. Kf6 g5 47. Kxf7 Kf3
+48. Kg7 g4 49. Kxh7 Kxe3 50. Kg6 Kf3 51. Kg5 {, in fondo un modo più semplice
+per raggiungere al pareggio.}) 36... Kd7 37. Kd5 c5 $1 {Paradossalmente il Re
+attivo del Bianco si accorge di avere meno libertà del previsto, in
+considerazione del fatto che deve vigilare costantemente sul rischio di spinta
+di rottura del Nero in c4.} 38. h3 Ke7 39. h4 Kd7 {Diagramma # [#]} 40. a5 $2 (
+{Il Bianco non può confidare sulla reciproca promozione:} 40. Kc4 Ke6 41. Kb5
+Kxe5 42. Kxb6 c4 43. a5 cxb3 (43... c3 44. a6 c2 45. a7 c1=Q 46. a8=Q Qxe3+ 47.
+Kb5 Qxb3) 44. a6 b2 45. a7 b1=Q 46. a8=Q Qe4 {con finale di Donne vinto.}) ({
+E' stato John Nunn a scoprire che il Bianco avrebbe salvato il mezzo punto
+grazie a} 40. e4 $1 {(avere il pedone una casa più avanti fa la differenza)}
+Ke7 41. a5 bxa5 42. Kxc5 a4 43. Kxb4 axb3 44. Kxb3 Ke6 45. Kc3 Kxe5 46. Kd3 Kf4
+47. Kd4 Kg4 48. Ke5 Kxh4 49. Kf6 Kg4 50. Kxf7 Kf4 51. Kg7 Kxg5 (51... Kxe4 $2
+52. Kxh7 Kf5 53. Kh6 {e il Nero salta in aria sulle case minate}) 52. Kxh7 Kf6
+53. e5+ Kxe5 54. Kxg6) 40... bxa5 41. Kxc5 a4 $1 {Diagramma # Il Nero liquida
+la propria maggioranza 3-2 sull'ala di Donna per avere mano libera sul lato di
+Re.} 42. Kxb4 axb3 43. Kxb3 Ke6 44. Kc4 Kxe5 {Se confrontiamo questa posizione
+con l'analisi di Nunn, esposta in precedenza, è evidente che per il Bianco è
+peggio avere il pedone in e3 anziché in e4.} 45. Kd3 ({Inutile andare subito
+addosso a f7 con} 45. Kc5 Ke4 46. Kd6 Kxe3 47. Ke7 Kf4 48. Kxf7 Kg4 49. Kg7
+Kxh4 50. Kh6 Kg4) 45... Kf5 46. Kd4 Kg4 47. Ke5 Kxh4 48. Kf6 Kg4 49. e4 {Il
+tempo sciupato.} ({Se} 49. Kxf7 Kxg5 50. Ke6 h5 51. e4 h4 52. e5 h3 {il Nero
+arriva con largo anticipo.}) 49... Kf4 0-1
+
+[Event "Gibraltar Festival 2016"]
+[Site "Gibraltar"]
+[Date "2016.01.29"]
+[Round "4.20"]
+[White "Jones, Gawain C B"]
+[Black "Khotenashvili, Bela"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2625"]
+[BlackElo "2502"]
+[Annotator "Fritz 13 (20m)"]
+[SetUp "1"]
+[FEN "8/5pp1/4p2p/kpq1PP1P/4Q1P1/P7/8/3K4 w - - 0 53"]
+[PlyCount "5"]
+[EventDate "2016.01.26"]
+
+{Diagramma #} 53. Qb4+ $1 {Il cambio Donne entra forzatamente in un finale di
+pedoni vinto.} Qxb4 54. axb4+ Kxb4 55. g5 $1 {La struttura pedonale nera sulla
+Caro-Kann sovente facilita il quatergrip di Kmoch, che, come possiamo vedere,
+genera l'allineamento decisivo con formazione a semicerchio, dove si fa leva
+sui pedoni e6 e h6.} (55. g5 Ka3 {Non ci sono possibilità di sopravvivenza per
+il Nero} ({a)} 55... hxg5 56. f6 $1 gxf6 57. h6) ({b)} 55... exf5 56. g6 $1
+fxg6 57. e6 gxh5 58. e7) 56. f6 gxf6 57. gxh6 b4 58. h7 b3 59. h8=Q b2 60. Kc2)
+1-0
+
+[Event "Monarch Assurance"]
+[Site "Port Erin"]
+[Date "2005.09.29"]
+[Round "6"]
+[White "Mannion, Stephen R"]
+[Black "Sareen, Vishal"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "2331"]
+[BlackElo "2385"]
+[Annotator "Del Dotto,Riccardo"]
+[SetUp "1"]
+[FEN "8/2q2pk1/3p2p1/2rRp2p/1pP1P2P/pP3PP1/P1K2Q2/8 w - - 0 57"]
+[PlyCount "20"]
+[EventDate "2005.09.24"]
+[EventRounds "9"]
+[EventCountry "IOM"]
+[Source "ChessBase"]
+[SourceDate "2005.11.04"]
+
+{Diagramma #} 57. Qd2 $2 {Il Bianco raddoppia contro il Pd6 arretrato, nulla
+di più naturale.} ({Come avremo modo di capire, era d'uopo una retromarcia tipo
+} 57. Rd1) 57... Rxd5 $1 {Il Nero comprende di entrare in un finale di Donne
+favorevole, sulla base della scarsa sicurezza del Re nemico.} 58. Qxd5 Qb6 $1 {
+Mentre il Bianco, fedele a una valutazione strategica ancorata al mediogioco,
+ha sopravvalutato la sua azione verticale sulla colonna 'd' contro l'arretrato
+d6, il Nero ha letto bene nella debolezza delle case scure - e segnatamente
+della diagonale g1-a7 - il tallone d'Achille dello schieramento rivale.} 59. c5
+{Il Maestro Internazionale scozzese dirotta il gioco in un finale di pedoni,
+nella speranza che il suo Re attivo possa fare la differenza.} ({Cercare di
+coprirsi le spalle non serve:} 59. Qd2 Qg1 60. Qxb4 Qg2+ 61. Qd2 Qxf3 62. Qxd6
+Qxe4+ 63. Qd3 Qg2+ 64. Qd2 Qxg3 {e il Nero fa incetta di pedoni.}) 59... Qxc5+
+60. Qxc5 dxc5 61. Kd3 f5 $1 {L'indiano Sareen comincia a costruire la propria
+quaterna. Un elemento comune a questi finali: il Re che si trova sull'ala
+opposta è costretto a recuperare un pedone di svantaggio, una necessità che lo
+attarda di diversi tempi, portandolo al di fuori del quadrato di un futuro
+pedone libero. L'esempio tipico è quello del finale Maslov-Glebov, Urss 1936,
+inserito nel "Manuale dei finali" di Mark Dvoretsky.} 62. Kc4 {Diagramma #} g5
+$1 {Ecco la quaterna: le due leve e4 e h4 consentono di realizzare quella che
+Kmoch chiama "infiltrazione".} ({Equivalente} 62... f4 $1 63. gxf4 (63. g4 hxg4
+64. fxg4 f3 {conduce a una sconfitta dello stesso tipo di quella verificatasi
+in partita}) 63... exf4 64. Kxc5 g5 65. Kd4 gxh4 {e il Re bianco è
+impossibilitato a entrare nel quadrato per colpa del Pf4.}) 63. exf5 ({Se} 63.
+hxg5 f4 $1 {per creare il pedone passato sulla colonna 'h'.}) 63... g4 $1 {La
+cirocostanza in esame è piuttosto singolare: il Re bianco sembra infatti molto
+vicino...} ({Se il Nero avesse fatto} 63... gxh4 {per lui non ci sarebbero più
+state chance di vittoria:} 64. gxh4 Kf6 65. Kxc5 Kxf5 66. Kxb4 Kf4 67. Kc3 ({se
+} 67. Kxa3 Kxf3 68. b4 e4 69. b5 e3 70. b6 e2 71. b7 e1=Q 72. b8=Q Qxh4 73.
+Qb3+ {con finale di Donne patto}) 67... Kxf3 68. Kd2 e4 69. Ke1 Ke3 (69... Kg4
+{si avvia a sua volta verso il pari}) 70. b4 Kd4 71. Ke2 Kc4 72. Ke3 Kxb4 73.
+Kxe4 Kc3 74. Ke3 $1 Kb2 75. Kd2 Kxa2 76. Kc2 Ka1 77. Kc1 a2 78. Kc2 {con patta
+per stallo.}) 64. fxg4 e4 $1 {I famigerati pedoni a salto di Cavallo mettono
+il Re bianco in zugzwang.} 65. gxh5 {Diagramma # La quaterna del Bianco non
+vale un soldo.} e3 66. Kd3 c4+ $1 (66... c4+ {L'ultima spinta di rottura: il
+Bianco abbandona in previsione di} 67. Kxe3 (67. bxc4 b3) 67... cxb3 68. axb3
+a2) 0-1
+
+[Event "Bundesliga 1983/84"]
+[Site "Germany"]
+[Date "1983.10.09"]
+[Round "1.1"]
+[White "Hort, Vlastimil"]
+[Black "Doncevic, Dario"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2585"]
+[BlackElo "2300"]
+[Annotator "Del Dotto,Riccardo"]
+[SetUp "1"]
+[FEN "4n3/1p2pp1p/p1k3p1/P1B5/1PP2PP1/3K4/7P/8 b - - 0 32"]
+[PlyCount "16"]
+[EventDate "1983.10.09"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Porz"]
+[BlackTeam "Koblenz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{Diagramma #} 32... Nd6 $2 ({Perfino a livello magistrale si nota di frequente
+come la comprensione dei finali di pedone non sia del tutto adeguata. Prova ne
+è che il difensore entra deliberatamente nel finale di pedoni, proponendo per
+primo il cambio dell'ultimo pezzo. Qua il Nero avrebbe fatto bene a conservare
+il Cavallo, che, seppur passivo, ha talvolta il merito di dar vita a
+situazioni di blocco sul colore contrario all'Alfiere. Se per esempio} 32...
+Kd7 33. b5 $2 {ora} Nc7 $1 34. bxa6 Nxa6 {rovina la maggioranza del Bianco ad
+Ovest.}) 33. Kd4 ({Già si poteva eseguire} 33. Bxd6) 33... h5 ({Tardi per} 
+33... Nc8 {con il Cavallo dominato dall'Alfiere.}) 34. Bxd6 $1 {Hort stima
+correttamente come vinto il finale di pedoni.} Kxd6 35. g5 f6 {Diagramma #} ({
+Tergiversare col Re non sposta il risultato:} 35... Ke6 36. b5 Kd6 37. c5+ Kc7
+38. Kc4 h4 39. h3 f5 40. bxa6 bxa6 41. Kd5 Kd7 42. c6+ Kc7 43. Ke6 Kxc6 44.
+Kxe7 Kb5 45. Kf6 Kxa5 46. Kxg6 Kb4 47. Kxf5 a5 48. g6 {e il Bianco giunge con
+largo anticipo alla meta.}) 36. f5 $1 {Il Quadrilatero Karpov, che Hort, ben
+conosce per averlo subito dal suo autore a Tilburg nel 1979.} e5+ ({Se} 36...
+gxf5 37. c5+ Kd7 38. g6 Ke8 39. b5 $1 {e a Ovest il terno prevale sull'ambo.})
+37. Ke3 gxf5 38. g6 f4+ 39. Kf3 Ke6 40. b5 {E il Nero si arrende, poiché il
+suo Re non ha certo il dono dell'ubiquità.} 1-0
+
+[Event "Budapest Hunguest Hotels"]
+[Site "Budapest"]
+[Date "2003.04.13"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Almasi, Zoltan"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2715"]
+[BlackElo "2676"]
+[Annotator "Del Dotto,Riccardo"]
+[SetUp "1"]
+[FEN "8/8/P3kpp1/1n5p/N6P/2pK4/6P1/8 b - - 0 68"]
+[PlyCount "22"]
+[EventDate "2003.04.11"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2003.07.25"]
+
+{Diagramma #} 68... Kd7 $2 ({Quando un tempo può fare la differenza in modo
+determinante: in questa posizione} 68... c2 $1 {avrebbe allontanato il Re
+bianco dal lato Est quel tanto che bastava,} 69. Kxc2 Kd6 70. Nc3 (70. Kd3 Kc6
+71. Nc3 Nd6 72. Ne4 Nf5 73. g3 Nxg3 $1 74. Nxg3 g5 {per far scomparire tutti i
+pedoni}) 70... Nc7 71. a7 Kc6 72. Ne4 Kb7 73. Nxf6 Ne6 74. g3 g5 75. hxg5 Nxg5
+76. Nxh5 Kxa7 {con finale teoricamente patto.}) 69. Nxc3 Nc7 70. a7 Kc6 71. Ne4
+g5 {Diagramma # Il tentativo di liquidazione pedonale non andrà a buon fine.} (
+{Dopo} 71... Kb7 72. Nxf6 Ne6 73. Ke4 {rispetto alla variante poc'anzi
+esaminata il Re bianco più centralizzato interviene per impedire al Cavallo di
+saltare in f4.}) 72. g4 $1 {Il Quadrilatero Karpov era pronto a scattare.} gxh4
+({Il Bianco in ogni caso al tratto successivo avrà sempre un proprio pedone in
+h5; se infatti} 72... hxg4 73. h5 f5 74. Nxg5 Kb7 75. h6) 73. gxh5 Kb7 74. h6
+Nd5 75. Nd6+ Kxa7 76. h7 Nf4+ 77. Ke4 Ng6 78. Kf5 Nh8 79. Kxf6 {Diagramma # Il
+Cavallo nero è in trappola nell'angolo, mentre il Cavallo bianco è in grado di
+impedire in due mosse la promozione del pedone nero.} 1-0
+
+[Event "Serbia Women's Chess Championship 2022"]
+[Site "Bajina Basta"]
+[Date "2022.12.09"]
+[Round "5"]
+[White "Dimitrijevic, Andjela"]
+[Black "Eric, Jovana"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2021"]
+[BlackElo "2236"]
+[Annotator "Del Dotto,Riccardo"]
+[SetUp "1"]
+[FEN "8/5p2/1k5p/2b1p1pP/1pPpPrP1/pP3P2/P3K3/B4R2 b - - 0 41"]
+[PlyCount "30"]
+[EventDate "2022.??.??"]
+[TimeControl "5400+30"]
+
+{Diagramma #} 41... f5 $1 {The Sledgehammer! La rottura permette al Nero di
+far saltare il muro eretto dal Bianco.} 42. exf5 ({Proviamo l'altra cattura} 
+42. gxf5 g4 $1 43. fxg4 (43. Rf2 $4 d3+) (43. f6 Rxf6 44. Kd2 gxf3) 43... d3+
+44. Ke1 d2+ {e il Re viene allontanato con la forza dalla Torre.}) 42... e4 $1
+{La seconda rottura.} 43. Bxd4 ({Il Bianco si affida a un disperato sacrificio
+d'Alfiere, a fronte dell'inutilità della linea} 43. fxe4 d3+ 44. Kxd3 Rxf1 45.
+Bg7 Rf3+ 46. Kc2 Rf2+ 47. Kb1 Be3 48. e5 Rb2+ 49. Ka1 Rc2 50. e6 Rc1#) 43...
+Bxd4 {Sulla parte conclusiva c'è poco da aggiungere.} 44. fxe4 Rxe4+ 45. Kd3
+Rxg4 46. f6 Bc5 47. Re1 Rd4+ 48. Kc2 Rf4 49. Re6+ Kc7 50. Kd1 Kd7 51. Ra6 Bd6
+52. c5 Bxc5 53. f7 Bf8 54. Rb6 Rxf7 55. Ke2 Rf2+ 56. Ke3 {0-} 0-1
+
+[Event "Camp. Polonia"]
+[Site "Warsaw"]
+[Date "2003.04.30"]
+[Round "9"]
+[White "Krasenkow, Michal"]
+[Black "Macieja, Bartlomiej"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2609"]
+[BlackElo "2634"]
+[Annotator "Riccardo Del Dotto"]
+[SetUp "1"]
+[FEN "8/2p2k2/1p1p1p2/p2Pp1p1/K1P1P1P1/P4P2/1P6/8 w - - 0 40"]
+[PlyCount "13"]
+[EventDate "2003.04.22"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2003.07.25"]
+
+{Diagramma #} 40. c5 $1 {The sledgehammer si abbatte sui pedoni dell'ala di
+Donna, producendo una frattura insanabile.} ({Fondamentalmente si può
+penetrare col Re} 40. Kb5 Ke7 41. Kc6 Kd8 {a patto poi di ricorrere ugualmente
+alla spinta di rottura.} 42. c5 ({tuttavia v'è da segnalare che il Bianco si
+aggiudica la partita pure con una condotta "regolare":} 42. b4 axb4 43. axb4
+Kc8 44. c5 bxc5 45. bxc5 dxc5 46. Kxc5 Kd7 47. Kb4 $1 {(adesso è
+indispensabile applicare la tecnica della triangolazione per ottenere la
+stessa posizione col tratto all'avversario)} Kd6 ({su} 47... c6 48. Kc5 cxd5
+49. exd5 Kc7 50. d6+ Kd7 51. Kd5 Kd8 52. Ke6) 48. Kb5 Kd7 49. Kc5 Kc8 50. Kc6
+Kd8 51. d6 {e il Bianco arriva al sospirato ampliamento della testa di ponte
+sulla sesta traversa.})) 40... dxc5 ({Senza storia} 40... bxc5 41. Kxa5 {che
+genera un pedone passato lontano.}) 41. Kb5 c4 {Macieja azzarda l'ultima carta.
+} ({Se il Re nero accorre in difesa} 41... Ke7 42. Kc6 Kd8 43. d6 $1 {
+(l'ampliamento della testa di ponte)} cxd6 44. Kxd6 c4 {e qui s'impone} 45. Kc6
+{e i pedoni neri cadono uno ad uno,} ({ma attenzione a non fare autogol con} 
+45. a4 $4 {Diagramma # soggetta a sua volta a subire una spinta di rottura:} b5
+$1 46. axb5 ({conclusione elegante per} 46. Kc5 c3 $1 47. bxc3 bxa4 48. Kc4 Kc7
+{con tema di zugzwang in stile Borisenko Belova-Zvorykina, Riga 1962}) 46... c3
+47. bxc3 a4 48. b6 Kc8 {ribaltando l'esito già scritto})) 42. Kc6 ({La strada
+verso il successo dopo} 42. Kxc4 {sarebbe stata molto più lunga, ma merita uno
+sguardo} Ke7 43. Kb5 Kd7 44. Ka6 Kd8 ({se} 44... c6 45. Kxb6 cxd5 46. exd5 {e
+qui il Nero può tentare a sua volta il terno al lotto con} f5 47. gxf5 e4 48.
+fxe4 g4 49. f6 g3 50. f7 Ke7 51. d6+ Kxf7 52. d7 g2 53. d8=Q g1=Q+ 54. Kxa5 {
+senza nutrire speranze nel finale di Donne}) 45. Kb7 Kd7 46. b4 axb4 47. axb4
+Kd6 48. b5 Kd7 49. Kb8 Kd8 (49... Kd6 {consente l'aggiramento} 50. Kc8 Kc5 51.
+Kxc7) 50. d6 $1 {(il solito sacrificio di pedone che amplia la testa di ponte)}
+cxd6 51. Kb7 d5 {(il Nero cala la quaterna)} 52. exd5 f5 53. gxf5 g4 54. fxg4
+e4 55. f6 e3 56. d6 e2 57. f7 e1=Q 58. f8=Q+ Kd7 59. Qe7+ {e fine.}) 42... a4
+43. Kxc7 b5 44. d6 b4 {Lo strike del Nero si presenta quando i giochi ormai
+son fatti.} 45. d7 bxa3 46. bxa3 1-0
+

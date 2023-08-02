@@ -1,0 +1,72 @@
+[Event "FIDE Women's Grand Prix | Fourth Leg 20"]
+[Site "Chess.com"]
+[Date "2023.05.15"]
+[Round "11"]
+[White "Khotenashvili, Bella"]
+[Black "Wagner, Dinara"]
+[Result "0-1"]
+[ECO "A22"]
+[WhiteElo "2478"]
+[BlackElo "2417"]
+[Annotator "DM"]
+[PlyCount "70"]
+[EventDate "2023.??.??"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 O-O 5. e4 {Questa variante dell'apertura
+Inglese non e' molto popolare: il Bianco non riesce a ottenere alcun vantaggio.
+} Bxc3 6. bxc3 c6 $1 {Questa mossa accurata offre al Nero una buona posizione.}
+7. Ne2 d5 8. cxd5 cxd5 9. Ba3 {Un mossa nuova, ma non particolarmente buona.
+L'Alfiere non e' ben piazzato in a3.} (9. exd5 {sarebbe stata piu' precisa,
+anche se il Bianco non ha alcun vantaggio dopo} Nxd5 10. O-O Nc6) 9... Re8 ({
+Sacrificare la qualita' con} 9... dxe4 $6 {√.. semplicemente eccessivo: dopo}
+10. Bxf8 Kxf8 11. O-O {il compenso del Nero √.. solo aleatorio.}) 10. exd5 Nxd5
+11. O-O Nc6 {Il Nero sta meglio: qualcosa dev'essere andato storto nella
+preparazione di Khotenashvili.} 12. h3 {Sia 12. Ó Re1 e 12.Ó Rb1 sono
+alternative valide, mentre dopo} (12. Qb3 $6 {la Donna non e' ben posizionata,
+perche' in seguito puo' essere attaccata dall'Alfiere in e6, per esempio:} Nb6
+13. d4 Be6 14. Qd1 Bc4 {ecc.}) 12... Bf5 {Questa permette al Bianco di
+semplificare il gioco;} (12... Qa5 {era piu' accurata, col possibile seguito}
+13. Qb3 Nb6 14. d3 Be6 15. c4 Rad8 {e il Nero ha l'iniziativa.}) 13. d4 $1 exd4
+14. Nxd4 Nxc3 15. Nxc6 bxc6 (15... Qxd1 {conduce a un finale pari dopo} 16.
+Raxd1 bxc6 17. Bxc6 Nxd1 18. Bxa8 Rxa8 19. Rxd1 Bxh3 20. Be7 {e le Torri
+verranno cambiate dopo 21.Ó Rd8+.}) 16. Qb3 (16. Qxd8 {e' una buona
+alternativa, con cui il Bianco avrebbe potuto lottare per il pareggio in un
+finale con un pedone in meno:} Raxd8 ({oppure} 16... Rexd8 17. Bxc6 Bxh3 18.
+Bxa8 Bxf1 19. Kxf1 Rxa8 20. Rc1 {con probabile patta}) 17. Bxc6 Re2 18. Bg2
+Rxa2 19. Rxa2 Nxa2 20. Bc5 a6 21. Ra1 Be6 22. Bf1 {con buone opportunit√ di
+pareggio.}) 16... Nd5 (16... Qf6 {era ugualmente possibile: Il Nero sta
+leggermente meglio dopo} 17. Bb2 Ne2+ 18. Kh2 Qg6 {ecc.}) 17. Qa4 Qd7 18. Kh2
+Re2 19. Bc5 Qe6 {[#]} 20. Qa6 {Preparando 21.Ó Bb7, ma} (20. Bf3 $1 {√.. pi√>=
+precisa:} Rc2 (20... Re5 21. Bd4 Bxh3 22. Bxe5 Bxf1 23. Bxg7 $1 Kxg7 24. Rxf1 {
+e il Bianco ha abbastanza compenso per il pedone}) 21. Rfe1 Qd7 22. Rac1 (22.
+Bxd5 {non √.. buona perch√ il Bianco deve fare attenzione alle case chiare dopo
+} Qxd5 23. Qxa7 Rc8) 22... Rxc1 23. Rxc1 {e la coppia di Alfieri offre
+adeguato compenso per il pedone.}) 20... h5 $1 {Questa mossa d√ un po' di agio
+al Re e prepara l'attacco con h5-h4.} 21. a4 $2 {Il Bianco non avrebbe dovuto
+permettere al pedone nero di raggiungere h4.} (21. Qb7 {√.. ugualmente brutta}
+Rd8 22. Qxa7 h4 {con un forte attacco.}) (21. Bxd5 {non √.. ancora necessaria,
+ma √.. un'importante risorsa difensiva.} cxd5 22. Qxe6 fxe6 {con possibilit√
+di vittoria da parte del Nero.}) (21. h4 $1 {√.. la mossa migliore, fermando
+il pedone 'h'.}) 21... h4 22. Ra3 $2 {Questa perde. Il Bianco avrebbe dovuto
+forzare il cambio di Donne, ottenendo possibilit√ di pareggiare grazie alla
+presenza degli Alfieri di colore contrario.} (22. Bxd5 $1 cxd5 (22... Qxd5 $4
+23. Qxe2) 23. Qxe6 hxg3+ 24. Kxg3 Rxe6 (24... fxe6 25. Rfe1) 25. Rfd1 {ecc.})
+22... Rc2 $1 23. Qb7 Re8 24. Qxa7 hxg3+ $2 {Questa permette al Bianco di
+portare la Torre in difesa. Il Nero aveva due forti continuazioni:} (24... Be4
+{cambiando gli Alfieri campochiaro}) (24... Nc3 $1 {√.. la mossa pi√>= forte,
+che esclude dal gioco la Torre a3 e prepara la cattura in g3. Non c'√.. difesa,
+per esempio:} 25. Qc7 (25. g4 Be4 {con un attacco decisivo}) 25... Be4 {e il
+Nero ha un vantaggio vincente.}) 25. Rxg3 Nf4 26. Re3 (26. Bd4 {√.. ugualmente
+possibile.}) 26... Qc8 27. Rfe1 $2 {Questa perde un pedone e permette al Nero
+di proseguire l'attacco.} (27. Rxe8+ {√.. preferibile:} Qxe8 28. Qe7 $1 {(una
+mossa importante)} Qxe7 29. Bxe7 Nxg2 30. Kxg2 Ra2 {e il pedone 'a' sta per
+essere catturato, ma il Bianco ha buone possibilit√ di pareggiare.}) 27... Rxe3
+28. Bxe3 (28. Rxe3 {non offre salvezza:} Rxf2 29. Re8+ Qxe8 30. Bxf2 Nxg2 31.
+Kxg2 Qe4+ 32. Kh2 Qf4+ 33. Bg3 Qf1 $1 {e il pedone h3 √.. perso.}) 28... Nxg2
+29. Kxg2 Bxh3+ 30. Kh2 Rc4 $1 {Una mossa forte, con cui il Nero trasferisce la
+Torre sul lato di Re.} 31. Qe7 Rg4 (31... Rxa4 {e' ugualmente buona.}) 32. Bc5
+(32. Kxh3 $2 Rg5+ (32... Re4+ {anche guadagnare la Donna non era male}) 33. Kh2
+Rh5+ {con matto forzato.}) 32... Qf5 (32... Rxa4) 33. Qe8+ (33. Rg1 $1 {era
+l'unica possibilita'}) 33... Kh7 34. Qxc6 Bg2 (34... Bf1 {era ugualmente buona:
+} 35. Rxf1 Qh5#) 35. f3 Qf4+ 0-1
+

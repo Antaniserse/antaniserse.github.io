@@ -1,0 +1,70 @@
+[Event "European Rapid-ch 2022"]
+[Site "Katowice"]
+[Date "2022.12.17"]
+[Round "4.1"]
+[White "Navara, David"]
+[Black "Wieczorek, Oskar"]
+[Result "1-0"]
+[WhiteElo "2680"]
+[BlackElo "2504"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "4rbk1/1qpb1pp1/5n1p/1p2p3/1P2P3/rBP1B1NP/5PP1/1Q1RR1K1 w - - 0 26"]
+[PlyCount "19"]
+[EventDate "2022.??.??"]
+[EventType "rapid"]
+
+{Durante il percorso (iniziato con 6 su 6) che gli ha fruttato l'argento nel
+campionato rapid, dopo l'oro nel blitz, Navara ha risolto in proprio favore
+grazie alla tattica le partite contro alcuni degli avversari piu' pericolosi.} 
+26. Nh5 $1 Be6 $2 (26... Nxh5 27. Rxd7 Re7 28. Bd5 Qb8 29. Rxe7 Bxe7 30. Qb2
+Ra6 31. c4 $16 {era il male minore per il Nero.}) 27. Nxf6+ gxf6 28. Bxe6 fxe6
+$2 (28... Rxe6) 29. Qc1 Ra2 30. Bxh6 Qa7 31. Rd2 Bd6 32. Qd1 Kf7 33. Be3 Qa8
+34. Qh5+ Ke7 35. Qh7+ ({Il Nero si e' arreso in vista di} 35. Qh7+ Kd8 36.
+Rxd6+ $1 {e ora} cxd6 {va incontro al matto:} 37. Bb6+ Kc8 38. Qc7# {.}) 1-0
+
+[Event "European Rapid-ch 2022"]
+[Site "Katowice"]
+[Date "2022.12.17"]
+[Round "5.1"]
+[White "Alonso Rosell, Alvar"]
+[Black "Navara, David"]
+[Result "0-1"]
+[WhiteElo "2561"]
+[BlackElo "2680"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "2rr2k1/pb1nbppp/4pn2/7q/NpNQP3/1P2BP2/P3B1PP/2R2RK1 b - - 0 18"]
+[PlyCount "15"]
+[EventDate "2022.??.??"]
+[EventType "rapid"]
+
+{[#]} 18... Bxe4 $1 19. Qxa7 (19. fxe4 Qxe2 20. Qxa7 Qxa2 21. Na5 Rc2 $1 {
+sarebbe stata decisamente peggio.}) 19... Ra8 20. Qc7 Bg6 21. Qg3 Nd5 22. Bd2
+$2 (22. Qf2 Nxe3 23. Nxe3 Nf6 24. Rfd1 {era l'unico modo di continuare a
+lottare.}) 22... Nc5 $1 23. Ne5 (23. Nxc5 Bxc5+ 24. Kh1 Be7 {sarebbe stata
+comunque drammatica per il Bianco, ma avrebbe evitato la perdita di un pezzo.})
+23... Bh4 24. Qg4 Qxe5 25. Nxc5 Qxe2 0-1
+
+[Event "European Rapid-ch 2022"]
+[Site "Katowice"]
+[Date "2022.12.18"]
+[Round "10.2"]
+[White "Navara, David"]
+[Black "Azarov, Sergei"]
+[Result "1-0"]
+[WhiteElo "2680"]
+[BlackElo "2562"]
+[Annotator "DM"]
+[SetUp "1"]
+[FEN "4rb1k/1b1n1pp1/p1q1rn1p/1p1ppN2/4P1NQ/PBP4P/1P3PP1/R1B1R1K1 w - - 0 23"]
+[PlyCount "19"]
+[EventDate "2022.??.??"]
+[EventType "rapid"]
+
+{[#]} 23. Ngxh6 $1 {Un sacrificio "chiamato".} gxh6 24. Bxh6 Nh7 ({Anche peggio
+} 24... Kg8 25. Qg5+ Kh7 26. Bxf8 {con matto imparabile.}) 25. exd5 Qb6 (25...
+Rxh6 26. dxc6 Rxh4 27. cxd7 Rd8 28. Nxh4 Rxd7 29. Rad1 $18 {avrebbe perso
+ugualmente in fretta. Il resto e' una formalita' per Navara.}) 26. dxe6 fxe6
+27. Ne3 Ndf6 28. Bc2 e4 29. Bxf8 Rxf8 30. Rad1 Qc5 31. Ng4 Nxg4 32. hxg4 1-0
+

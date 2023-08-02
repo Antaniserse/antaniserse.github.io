@@ -1,0 +1,62 @@
+[Event "ASR torneo Dubois under 18"]
+[Site "Roma"]
+[Date "2023.01.05"]
+[Round "1"]
+[White "Cappelletto, Joshuaede"]
+[Black "Zoncu, Roberto Alessio"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2263"]
+[BlackElo "2078"]
+[Annotator "Microsoft"]
+[PlyCount "43"]
+[EventDate "2023.01.07"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 $1 Nxc5 10. O-O-O $1 a6 11. h4 Qc7 12. Ng5 $146 (12. Bd3 Nb4 13.
+Kb1 Nbxd3 14. cxd3 Bd7 15. Rc1 Qb6 16. f5 Rfc8 17. Bg5 Qd8 18. f6 gxf6 19. exf6
+{come nella partita Shankland (2713)-Cori (2686), Biel 2019, con attacco
+vincente del Bianco perché se 19... Axf6 20. Ce5 ecc.}) 12... b5 $2 {Dopo
+questo errore il Bianco prende il sopravvento. 12... b6 era giocabile.} (12...
+b6 $11) 13. Bxc5 Bxc5 14. Qd3 f5 15. exf6 $1 {Diagramma #} Qxf4+ $2 (15... gxf6
+$16 16. Nxd5 {il vantaggio del Bianco sarebbe stato meno evidente} Qa7 (16...
+exd5 $2 17. Qxd5+ Kg7 18. Qxc5 fxg5 19. hxg5 Qxf4+ (19... Bf5 20. Rd6) 20. Kb1
+Ne5 21. g3 $1 Qxg5 (21... Qf5 22. Bg2 (22. Re1)) 22. Rxh7+ Kxh7 23. Qxf8) 17.
+Ne4) 16. Kb1 g6 $2 {Un altro grave errore, ma anche dopo 16... Df5 il Bianco
+ha un vantaggio quasi decisivo.} (16... Qf5 17. Qxf5 exf5 18. f7+ Kh8 19. Nxd5
+Ra7 (19... h6 $4 20. Nf4 $1) 20. Nf4) 17. Nxd5 Qe5 {Diagramma #} 18. Nxh7 $1
+Kxh7 (18... Qf5 19. Nxf8) 19. h5 $1 Rxf6 20. hxg6+ Kg8 21. Rh8+ $1 Kg7 22. Qh3
+$1 1-0
+
+[Event "ASR Serafino Dubois under 18"]
+[Site "Roma"]
+[Date "2023.01.08"]
+[Round "6"]
+[White "Hercegovac, Neven"]
+[Black "Sala, Giulia"]
+[Result "0-1"]
+[ECO "C28"]
+[WhiteElo "2152"]
+[BlackElo "2069"]
+[Annotator "Microsoft"]
+[PlyCount "72"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 h6 5. f4 exf4 {Le alternative sono 2...
+Ab4 oppure 2... Ac5} (5... Bb4 $11) (5... Bc5) 6. Bxf4 d6 7. a3 g5 $146 {
+Tentando di eludere i piani con il 'pilota automatico' dopo 7... Ae7. Da
+considerare 7... Ae6!?.} (7... Be6 $5) (7... Be7) 8. Bg3 Bg7 9. Nge2 Bg4 10.
+Qd2 $1 $16 Qd7 11. O-O-O O-O-O 12. Kb1 Nh5 $1 $11 13. Rdf1 () {Il Bianco ha
+buon gioco.} 13... Nxg3 14. Nxg3 (14. Rxf7 $2 Qxf7 15. Bxf7 Nxh1 16. Nd1 (16.
+Qe1 Rhf8) 16... Rhf8 17. Bd5 Ne7 {e il Nero riesce a conservare un forte
+vantaggio di materiale.}) 14... Be6 15. Nf5 Be5 16. Bb5 $1 $18 Bf4 17. Rxf4
+gxf4 18. Nd4 $1 d5 19. Nxc6 $2 (19. Na4 $1 $18 {sarebbe stata risolutiva, in
+vista di} Qd6 20. Bxc6 bxc6 21. Qa5 dxe4 22. Nc5) (19. e5) 19... bxc6 $14 20.
+Ba6+ Kb8 21. Nxd5 $1 {Il Bianco minaccia Db4+ e matto.} c5 $1 (21... cxd5 22.
+Qb4+) 22. Nxf4 $4 {Era necessaria e ancora buona 22. Ac4. Dopo la mossa del
+testo Giulia Sala coglie l'occasione di ribaltare la partita, portandosi in
+vantaggio di una Torre.} (22. Bc4 f5 23. Qxf4) 22... Qa4 $1 $19 23. Qc3 Qxa6
+24. Qxc5 Qd6 25. Qf2 Ka8 26. c4 Qd4 27. Qc2 Rb8 28. g3 Rb6 29. Rc1 c5 30. Qg2
+Rhb8 31. e5+ R8b7 32. Rc2 Bf5 33. Ka1 Rb3 34. Ka2 Bxd3 35. Nxd3 Qxd3 36. Rd2
+Rxa3+ $1 0-1
+
