@@ -9,6 +9,15 @@ body,table {
   background-color:#3E3C3B;
 }
 
+.baloon {
+	display:none; 
+	background-color:#3E3C3B;
+	position:absolute; 
+	border-style: solid; 
+	border-width:thin;
+	padding: 5px;
+}
+
 a:link {
   color: white;
 }
@@ -268,6 +277,10 @@ function openTab(evt, tabName) {
 		<li><a href="http://demonssouls.wikidot.com/">Wiki</a></li>
 		<li><a href="https://mugenmonkey.com/demonssouls">Planner</a></li>
 		<li><a href="https://thearchstones.com">Online server</a></li>
+		<li>
+			<a class="dashesHREF" onmouseover="ShowBaloon('DemonsSoulsBaloon1'); return true;" onmouseout="HideBaloon('DemonsSoulsBaloon1'); return true;"
+			  href="javascript:ShowBaloon('DemonsSoulsBaloon1')">How to select world tendency</a>
+		  </li>	  
 	</ul>
 <a href="https://demonssouls.wiki.fextralife.com/Game+Progress+Route">Suggested order:</a><br><br>
     Phalanx: Gates of Boletaria (1 - 1)<br>
@@ -476,13 +489,7 @@ function openTab(evt, tabName) {
 </main>
 
 <!-- Baloons -->
-<div 
-   id="Heroes6Baloon1" 
-   style="display:none; 
-      position:absolute; 
-      border-style: solid; 
-	  border-width:thin;
-      padding: 5px;">
+<div id="Heroes6Baloon1" class="baloon">
 		Heart of Nightmares (Collector's edition map)<br>
 		Prologue 1<br>
 		Prologue 2<br>
@@ -507,6 +514,18 @@ function openTab(evt, tabName) {
 		Haven 4<br>
 		Inferno 4<br>
 		Epilogues<br>
+</div>
+<div id="DemonsSoulsBaloon1" class="baloon">
+		<b>User Selectable World Tendency</b><br>
+		Place one of the following messages anywhere in the world</p>
+		<ul type="square">
+			<li><b><i>Requesting a challenger...</i></b> = Pure Black Tendency</li>
+			<li><b><i>You'll need a Soul Level of 10 ahead.</i></b> = Pure White Tendency</li>
+			<li><b><i>Write more messages!</i></b> = Neutral Tendency</li>
+			<li><b><i>Farewell!</i></b> = Use Global Tendency System</li>
+		</ul>	
+		Notice the message will not be placed in the world, But the Custom Code did work.
+		Quit game, and Load back in.
 </div>
 </body>
 </html> 
