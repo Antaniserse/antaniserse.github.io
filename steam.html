@@ -8,6 +8,23 @@ body,table {
   color:white;
   background-color:#3E3C3B;
 }
+table.content {
+	margin-left: 240px; /* Same as the width of the sidenav */
+	font-size: 14px; 
+}
+table.innertable {
+	font-size: 13px; 
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table.innertable td {
+  border: 1px solid black;
+  padding: 8px;
+}
+table.innertable tr {
+  border: 1px solid black;
+  padding: 8px;
+}
 
 .baloon {
 	display:none; 
@@ -82,11 +99,6 @@ a:visited {
 
 .tabcontentdefault {
   display: block;
-}
-
-table {
-  margin-left: 240px; /* Same as the width of the sidenav */
-  font-size: 14px; 
 }
 
 @media screen and (max-height: 450px) {
@@ -187,7 +199,7 @@ function openTab(evt, tabName) {
 
 </head>
 <body>
-<table border="0" width="80%">
+<table class="content" border="0" width="80%">
   <tr>
     <td><b><a href="https://www.google.com">Google</a></b></td>
     <td><b><a href="https://www.reddit.com/">Reddit</a></b></td>
@@ -398,10 +410,46 @@ function openTab(evt, tabName) {
 		<li><a href="https://www.celestialheavens.com/walkthroughs-home#heroes6">Celestial Haven Walkthrough</a></li>
 		<li><a href="http://forums.ubi.com/forumdisplay.php/212-Might-amp-Magic-Heroes-VI?amp;-Magic-Heroes-VI=/">Official Forum</a></li>
 		<li><a href="file:///F:/Shared/Games Extra/Soluzioni & Guide/HoMM6/mmh6_manual_eng_0.93.pdf">Manuale (locale)</a></li>
-		<li>
-		  <a class="dashesHREF" onmouseover="ShowBaloon('Heroes6Baloon1'); return true;" onmouseout="HideBaloon('Heroes6Baloon1'); return true;"
-			href="javascript:ShowBaloon('Heroes6Baloon1')">Campaign order</a>
-		</li>	  
+
+		<h4>Suggested campaign order</h4>
+		<table class="innertable">
+			<tr>
+				<td>Prologue 1</td><td>Stronghold 3</td>
+			</tr>
+			<tr>
+				<td>Prologue 2</td><td>Necropolis 3</td>
+			</tr>
+			<tr>
+				<td>Stronghold 1</td><td>Inferno 2</td>
+			</tr>
+			<tr>
+				<td>Sanctuary 1</td><td>Inferno 3</td>
+			</tr>
+			<tr>
+				<td>Haven 1</td><td>Sanctuary 4</td>
+			</tr>
+			<tr>
+				<td>Inferno 1</td><td>Stronghold 4</td>
+			</tr>
+			<tr>
+				<td>Necropolis 1</td><td>Haven 3</td>
+			</tr>
+			<tr>
+				<td>Stronghold 2</td><td>Necropolis 4</td>
+			</tr>
+			<tr>
+				<td>Sanctuary 2</td><td>Haven 4</td>
+			</tr>
+			<tr>
+				<td>Haven 2</td><td>Inferno 4</td>
+			</tr>
+			<tr>
+				<td>Necropolis 2</td><td>Epilogues</td>
+			</tr>
+			<tr>
+				<td>Sanctuary 3</td>
+			</tr>
+		</table>
 	</ul>  
 </article>
 
@@ -492,32 +540,6 @@ function openTab(evt, tabName) {
 </main>
 
 <!-- Baloons -->
-<div id="Heroes6Baloon1" class="baloon">
-		Heart of Nightmares (Collector's edition map)<br>
-		Prologue 1<br>
-		Prologue 2<br>
-		Stronghold 1<br>
-		Sanctuary 1<br>
-		Haven 1<br>
-		Inferno 1<br>
-		Necropolis 1<br>
-		Stronghold 2<br>
-		Sanctuary 2<br>
-		Haven 2<br>
-		Necropolis 2<br>
-		Sanctuary 3<br>
-		Stronghold 3<br>
-		Necropolis 3<br>
-		Inferno 2<br>
-		Inferno 3<br>
-		Sanctuary 4<br>
-		Stronghold 4<br>
-		Haven 3<br>
-		Necropolis 4<br>
-		Haven 4<br>
-		Inferno 4<br>
-		Epilogues<br>
-</div>
 <div id="DemonsSoulsBaloon1" class="baloon">
 		<b>User Selectable World Tendency</b><br>
 		Place one of the following messages anywhere in the world</p>
